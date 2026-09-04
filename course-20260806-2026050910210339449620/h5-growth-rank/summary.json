@@ -1,0 +1,1030 @@
+{
+  "outputSlug": "course-20260806-2026050910210339449620",
+  "childName": "赵林苒",
+  "className": "赵林苒真实小组",
+  "courseTitle": "第2讲-还原问题",
+  "teacher": "林林老师",
+  "courseTime": "8月6日 10:30-13:00",
+  "courseDateLabel": "8月6日",
+  "heroMessage": "每一次认真完成，都是成长的闪光时刻",
+  "stats": {
+    "completeRate": 100,
+    "accuracy": 91.3,
+    "averageAccuracy": 84.14,
+    "likes": 154,
+    "handUpCount": 1,
+    "homeworkScore": 100,
+    "pretestScore": 30,
+    "pretestName": "【借来还去与等量代换】-课前测-第1次",
+    "hasPretest": true,
+    "allCardCorrect": false,
+    "cardCount": 23,
+    "isLate": 0,
+    "isAttend": 1,
+    "engagementRatio": 1.3516666666666666,
+    "courseDuration": 120,
+    "attendanceDuration": 162,
+    "stageDuration": 162,
+    "engagementRate": 100,
+    "highestLikes": 158,
+    "highestHomeworkScore": 100,
+    "highestPretestScore": 30
+  },
+  "rankInfo": {
+    "classRank": 186,
+    "classTotal": 1923,
+    "groupRank": 5,
+    "groupTotal": 28,
+    "growthScore": 105.2,
+    "classTiedCount": 12,
+    "groupTiedCount": 1,
+    "nextGoalRank": 5,
+    "scoreGapToTop": 1.6,
+    "label": "完成率100% · 正确率领先 · 课堂积极",
+    "encouragement": "已经进入小组前排啦！当前在 1923 位同学中排第 186，距离前 5 还差 1.6 分，再多一点细心和互动，就很有机会继续往前冲。"
+  },
+  "groupTop10": [
+    {
+      "rank": 1,
+      "name": "郝诗涵",
+      "score": 109.6,
+      "tiedCount": 1,
+      "tag": "互动之星",
+      "classRank": 1
+    },
+    {
+      "rank": 2,
+      "name": "栾沐卉",
+      "score": 106,
+      "tiedCount": 1,
+      "tag": "互动之星",
+      "classRank": 2
+    },
+    {
+      "rank": 3,
+      "name": "万政轲",
+      "score": 105.8,
+      "tiedCount": 1,
+      "tag": "互动之星",
+      "classRank": 3
+    },
+    {
+      "rank": 4,
+      "name": "陈乐颜",
+      "score": 105.3,
+      "tiedCount": 1,
+      "tag": "互动之星",
+      "classRank": 4
+    },
+    {
+      "rank": 5,
+      "name": "赵林苒",
+      "score": 105.2,
+      "tiedCount": 1,
+      "tag": "本次主角",
+      "classRank": 5
+    },
+    {
+      "rank": 6,
+      "name": "石睿",
+      "score": 105.1,
+      "tiedCount": 1,
+      "tag": "互动之星",
+      "classRank": 6
+    },
+    {
+      "rank": 7,
+      "name": "王俊杰",
+      "score": 104.8,
+      "tiedCount": 1,
+      "tag": "互动之星",
+      "classRank": 7
+    },
+    {
+      "rank": 8,
+      "name": "齐齐",
+      "score": 102.9,
+      "tiedCount": 1,
+      "tag": "互动之星",
+      "classRank": 8
+    },
+    {
+      "rank": 9,
+      "name": "杨瑞泽",
+      "score": 100.7,
+      "tiedCount": 1,
+      "tag": "互动之星",
+      "classRank": 9
+    },
+    {
+      "rank": 10,
+      "name": "Andy",
+      "score": 100.5,
+      "tiedCount": 1,
+      "tag": "互动之星",
+      "classRank": 10
+    }
+  ],
+  "groupNames": [
+    "郝诗涵",
+    "栾沐卉",
+    "万政轲",
+    "陈乐颜",
+    "赵林苒",
+    "石睿",
+    "王俊杰",
+    "齐齐",
+    "杨瑞泽",
+    "Andy",
+    "王朵朵",
+    "丁当",
+    "桑熙玥",
+    "郑博嘉",
+    "秦一轩",
+    "艾米",
+    "安驰",
+    "谢天翔",
+    "陈芷萱",
+    "王皓达",
+    "王恩畅",
+    "吕思诚",
+    "朵儿",
+    "王俊杰",
+    "米宝",
+    "王彬彧",
+    "姚佳屺",
+    "袁抱一"
+  ],
+  "goals": [
+    "保持完成率 100%",
+    "正确率稳定在 90%+",
+    "课堂点赞挑战 156+",
+    "作业继续保持 90+"
+  ],
+  "scoreRules": [
+    {
+      "key": "accuracy",
+      "label": "正确率",
+      "score": 18,
+      "normalizer": "fixed100"
+    },
+    {
+      "key": "homeworkScore",
+      "label": "作业分",
+      "score": 60,
+      "normalizer": "classMax"
+    },
+    {
+      "key": "likes",
+      "label": "课堂互动",
+      "score": 8,
+      "normalizer": "classMax"
+    },
+    {
+      "key": "participation",
+      "label": "课堂参与",
+      "score": 8,
+      "normalizer": "participation"
+    },
+    {
+      "key": "pretestScore",
+      "label": "学前测",
+      "score": 6,
+      "normalizer": "classMax"
+    }
+  ],
+  "bonusRules": [
+    {
+      "key": "perfectCard",
+      "label": "🌟 答题全对",
+      "score": 3
+    },
+    {
+      "key": "interactionTop3",
+      "label": "🌟 互动先锋",
+      "score": 2
+    },
+    {
+      "key": "perfectHomework",
+      "label": "🌟 满分作业",
+      "score": 2
+    },
+    {
+      "key": "noLate",
+      "label": "🌟 全程未迟到",
+      "score": 3
+    }
+  ],
+  "bonusMax": 10,
+  "growthBreakdown": [
+    {
+      "key": "accuracy",
+      "label": "正确率",
+      "actualScore": 16.4,
+      "fullScore": 18,
+      "gap": 1.6,
+      "rawValue": 91.3,
+      "benchmark": 100
+    },
+    {
+      "key": "homeworkScore",
+      "label": "作业分",
+      "actualScore": 60,
+      "fullScore": 60,
+      "gap": 0,
+      "rawValue": 100,
+      "benchmark": 100
+    },
+    {
+      "key": "likes",
+      "label": "课堂互动",
+      "actualScore": 7.8,
+      "fullScore": 8,
+      "gap": 0.2,
+      "rawValue": 154,
+      "benchmark": 158
+    },
+    {
+      "key": "participation",
+      "label": "课堂参与",
+      "actualScore": 8,
+      "fullScore": 8,
+      "gap": 0,
+      "rawValue": 8,
+      "benchmark": 8,
+      "parts": [
+        {
+          "label": "全程出勤",
+          "score": 3
+        },
+        {
+          "label": "未迟到",
+          "score": 2
+        },
+        {
+          "label": "充分参与（≥95%）",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "key": "pretestScore",
+      "label": "学前测",
+      "actualScore": 6,
+      "fullScore": 6,
+      "gap": 0,
+      "rawValue": 30,
+      "benchmark": 30
+    }
+  ],
+  "bonusBreakdown": [
+    {
+      "key": "perfectCard",
+      "label": "🌟 答题全对",
+      "hit": false,
+      "score": 0,
+      "fullScore": 3
+    },
+    {
+      "key": "interactionTop3",
+      "label": "🌟 互动先锋",
+      "hit": true,
+      "score": 2,
+      "fullScore": 2
+    },
+    {
+      "key": "perfectHomework",
+      "label": "🌟 满分作业",
+      "hit": true,
+      "score": 2,
+      "fullScore": 2
+    },
+    {
+      "key": "noLate",
+      "label": "🌟 全程未迟到",
+      "hit": true,
+      "score": 3,
+      "fullScore": 3
+    }
+  ],
+  "mainScore": 98.2,
+  "bonusScore": 7,
+  "scoreRuleSummary": "成长积分 = 主积分（正确率 30 + 作业 45 + 课堂互动 15 + 课堂参与 10 = 100 分封顶）+ 彩蛋（最多 +15 分，超出部分按 100 封顶）。主积分只统计学习成果，彩蛋用来奖励突出表现。完成率、班级平均、点赞数等只做展示，不计入积分。",
+  "commentary": "赵林苒，这节课你完成率 100%，正确率 91.30%，已经超过平均水平。你当前排在小组第 5 名，说明认真投入已经开始被看见。下一次如果把课堂互动和作业细心度再往前推一小步，就更有机会冲进前 5 名。继续保持，认真学习的你正在发光。",
+  "interactionSummary": "本课点赞 154 次，全班互动排名第 163。距离课堂互动 30+ 目标只差一点点，下次继续大胆举手、积极参与。",
+  "extraRanks": {
+    "classGrowth": "全班成长榜第 186 / 1923",
+    "groupGrowth": "小组成长榜第 5 / 28",
+    "classInteraction": "全班互动榜第 163 / 1923",
+    "classAccuracy": "全班正确率榜第 451 / 1923",
+    "classHomework": "全班作业分榜第 1 / 1880"
+  },
+  "top3": [
+    {
+      "rank": 1,
+      "name": "梁诗琪",
+      "likes": 158,
+      "label": "成长榜前排"
+    },
+    {
+      "rank": 1,
+      "name": "肖昀",
+      "likes": 158,
+      "label": "成长榜前排"
+    },
+    {
+      "rank": 1,
+      "name": "刘怡帆",
+      "likes": 158,
+      "label": "成长榜前排"
+    }
+  ],
+  "growthTop20": [
+    {
+      "rank": 1,
+      "name": "章梓岩",
+      "mainScore": 99.8,
+      "bonusScore": 10,
+      "growthScore": 109.8,
+      "score": 99.8,
+      "tiedCount": 9,
+      "tag": "稳定领跑"
+    },
+    {
+      "rank": 1,
+      "name": "蔡传雯",
+      "mainScore": 99.8,
+      "bonusScore": 10,
+      "growthScore": 109.8,
+      "score": 99.8,
+      "tiedCount": 9,
+      "tag": "稳定领跑"
+    },
+    {
+      "rank": 1,
+      "name": "李沅芯",
+      "mainScore": 99.8,
+      "bonusScore": 10,
+      "growthScore": 109.8,
+      "score": 99.8,
+      "tiedCount": 9,
+      "tag": "稳定领跑"
+    },
+    {
+      "rank": 1,
+      "name": "李虎林",
+      "mainScore": 99.8,
+      "bonusScore": 10,
+      "growthScore": 109.8,
+      "score": 99.8,
+      "tiedCount": 9,
+      "tag": "稳定领跑"
+    },
+    {
+      "rank": 1,
+      "name": "于乃槐",
+      "mainScore": 99.8,
+      "bonusScore": 10,
+      "growthScore": 109.8,
+      "score": 99.8,
+      "tiedCount": 9,
+      "tag": "稳定领跑"
+    },
+    {
+      "rank": 1,
+      "name": "万好",
+      "mainScore": 99.8,
+      "bonusScore": 10,
+      "growthScore": 109.8,
+      "score": 99.8,
+      "tiedCount": 9,
+      "tag": "稳定领跑"
+    },
+    {
+      "rank": 1,
+      "name": "陶君芃",
+      "mainScore": 99.8,
+      "bonusScore": 10,
+      "growthScore": 109.8,
+      "score": 99.8,
+      "tiedCount": 9,
+      "tag": "稳定领跑"
+    },
+    {
+      "rank": 1,
+      "name": "王梓皓",
+      "mainScore": 99.8,
+      "bonusScore": 10,
+      "growthScore": 109.8,
+      "score": 99.8,
+      "tiedCount": 9,
+      "tag": "稳定领跑"
+    },
+    {
+      "rank": 1,
+      "name": "熊景杰",
+      "mainScore": 99.8,
+      "bonusScore": 10,
+      "growthScore": 109.8,
+      "score": 99.8,
+      "tiedCount": 9,
+      "tag": "稳定领跑"
+    },
+    {
+      "rank": 10,
+      "name": "卓杭",
+      "mainScore": 99.7,
+      "bonusScore": 10,
+      "growthScore": 109.7,
+      "score": 99.7,
+      "tiedCount": 2,
+      "tag": "互动之星"
+    },
+    {
+      "rank": 10,
+      "name": "陈梓络",
+      "mainScore": 99.7,
+      "bonusScore": 10,
+      "growthScore": 109.7,
+      "score": 99.7,
+      "tiedCount": 2,
+      "tag": "互动之星"
+    },
+    {
+      "rank": 12,
+      "name": "林雨桐",
+      "mainScore": 99.6,
+      "bonusScore": 10,
+      "growthScore": 109.6,
+      "score": 99.6,
+      "tiedCount": 8,
+      "tag": "互动之星"
+    },
+    {
+      "rank": 12,
+      "name": "郝诗涵",
+      "mainScore": 99.6,
+      "bonusScore": 10,
+      "growthScore": 109.6,
+      "score": 99.6,
+      "tiedCount": 8,
+      "tag": "互动之星"
+    },
+    {
+      "rank": 12,
+      "name": "郭析灵",
+      "mainScore": 99.6,
+      "bonusScore": 10,
+      "growthScore": 109.6,
+      "score": 99.6,
+      "tiedCount": 8,
+      "tag": "互动之星"
+    },
+    {
+      "rank": 12,
+      "name": "任柏霖",
+      "mainScore": 99.6,
+      "bonusScore": 10,
+      "growthScore": 109.6,
+      "score": 99.6,
+      "tiedCount": 8,
+      "tag": "互动之星"
+    },
+    {
+      "rank": 12,
+      "name": "曾千栩",
+      "mainScore": 99.6,
+      "bonusScore": 10,
+      "growthScore": 109.6,
+      "score": 99.6,
+      "tiedCount": 8,
+      "tag": "互动之星"
+    },
+    {
+      "rank": 12,
+      "name": "易天",
+      "mainScore": 99.6,
+      "bonusScore": 10,
+      "growthScore": 109.6,
+      "score": 99.6,
+      "tiedCount": 8,
+      "tag": "互动之星"
+    },
+    {
+      "rank": 12,
+      "name": "李乔伊",
+      "mainScore": 99.6,
+      "bonusScore": 10,
+      "growthScore": 109.6,
+      "score": 99.6,
+      "tiedCount": 8,
+      "tag": "互动之星"
+    },
+    {
+      "rank": 12,
+      "name": "付继宇",
+      "mainScore": 99.6,
+      "bonusScore": 10,
+      "growthScore": 109.6,
+      "score": 99.6,
+      "tiedCount": 8,
+      "tag": "互动之星"
+    },
+    {
+      "rank": 20,
+      "name": "小蕊",
+      "mainScore": 99.5,
+      "bonusScore": 10,
+      "growthScore": 109.5,
+      "score": 99.5,
+      "tiedCount": 4,
+      "tag": "互动之星"
+    }
+  ],
+  "interactionTop20": [
+    {
+      "rank": 1,
+      "name": "梁诗琪",
+      "value": 158,
+      "tiedCount": 38,
+      "unit": "点赞",
+      "tag": "课堂互动"
+    },
+    {
+      "rank": 1,
+      "name": "肖昀",
+      "value": 158,
+      "tiedCount": 38,
+      "unit": "点赞",
+      "tag": "课堂互动"
+    },
+    {
+      "rank": 1,
+      "name": "刘怡帆",
+      "value": 158,
+      "tiedCount": 38,
+      "unit": "点赞",
+      "tag": "课堂互动"
+    },
+    {
+      "rank": 1,
+      "name": "周灵禾",
+      "value": 158,
+      "tiedCount": 38,
+      "unit": "点赞",
+      "tag": "课堂互动"
+    },
+    {
+      "rank": 1,
+      "name": "张曌汀",
+      "value": 158,
+      "tiedCount": 38,
+      "unit": "点赞",
+      "tag": "课堂互动"
+    },
+    {
+      "rank": 1,
+      "name": "叶晋萌",
+      "value": 158,
+      "tiedCount": 38,
+      "unit": "点赞",
+      "tag": "课堂互动"
+    },
+    {
+      "rank": 1,
+      "name": "恒宇",
+      "value": 158,
+      "tiedCount": 38,
+      "unit": "点赞",
+      "tag": "课堂互动"
+    },
+    {
+      "rank": 1,
+      "name": "优优",
+      "value": 158,
+      "tiedCount": 38,
+      "unit": "点赞",
+      "tag": "课堂互动"
+    },
+    {
+      "rank": 1,
+      "name": "王玗熙",
+      "value": 158,
+      "tiedCount": 38,
+      "unit": "点赞",
+      "tag": "课堂互动"
+    },
+    {
+      "rank": 1,
+      "name": "张欣朵",
+      "value": 158,
+      "tiedCount": 38,
+      "unit": "点赞",
+      "tag": "课堂互动"
+    },
+    {
+      "rank": 1,
+      "name": "孙嘉阳",
+      "value": 158,
+      "tiedCount": 38,
+      "unit": "点赞",
+      "tag": "课堂互动"
+    },
+    {
+      "rank": 1,
+      "name": "崔逸轩",
+      "value": 158,
+      "tiedCount": 38,
+      "unit": "点赞",
+      "tag": "课堂互动"
+    },
+    {
+      "rank": 1,
+      "name": "叶泠叶",
+      "value": 158,
+      "tiedCount": 38,
+      "unit": "点赞",
+      "tag": "课堂互动"
+    },
+    {
+      "rank": 1,
+      "name": "杨淑冰",
+      "value": 158,
+      "tiedCount": 38,
+      "unit": "点赞",
+      "tag": "课堂互动"
+    },
+    {
+      "rank": 1,
+      "name": "王宸辉",
+      "value": 158,
+      "tiedCount": 38,
+      "unit": "点赞",
+      "tag": "课堂互动"
+    },
+    {
+      "rank": 1,
+      "name": "陈奕蒽",
+      "value": 158,
+      "tiedCount": 38,
+      "unit": "点赞",
+      "tag": "课堂互动"
+    },
+    {
+      "rank": 1,
+      "name": "苏凯茜",
+      "value": 158,
+      "tiedCount": 38,
+      "unit": "点赞",
+      "tag": "课堂互动"
+    },
+    {
+      "rank": 1,
+      "name": "曹元嘉",
+      "value": 158,
+      "tiedCount": 38,
+      "unit": "点赞",
+      "tag": "课堂互动"
+    },
+    {
+      "rank": 1,
+      "name": "吴思嵘",
+      "value": 158,
+      "tiedCount": 38,
+      "unit": "点赞",
+      "tag": "课堂互动"
+    },
+    {
+      "rank": 1,
+      "name": "张长蕴",
+      "value": 158,
+      "tiedCount": 38,
+      "unit": "点赞",
+      "tag": "课堂互动"
+    }
+  ],
+  "accuracyTop20": [
+    {
+      "rank": 1,
+      "name": "章梓岩",
+      "value": 100,
+      "tiedCount": 77,
+      "unit": "%",
+      "tag": "答题正确率"
+    },
+    {
+      "rank": 1,
+      "name": "蔡传雯",
+      "value": 100,
+      "tiedCount": 77,
+      "unit": "%",
+      "tag": "答题正确率"
+    },
+    {
+      "rank": 1,
+      "name": "李沅芯",
+      "value": 100,
+      "tiedCount": 77,
+      "unit": "%",
+      "tag": "答题正确率"
+    },
+    {
+      "rank": 1,
+      "name": "李虎林",
+      "value": 100,
+      "tiedCount": 77,
+      "unit": "%",
+      "tag": "答题正确率"
+    },
+    {
+      "rank": 1,
+      "name": "于乃槐",
+      "value": 100,
+      "tiedCount": 77,
+      "unit": "%",
+      "tag": "答题正确率"
+    },
+    {
+      "rank": 1,
+      "name": "万好",
+      "value": 100,
+      "tiedCount": 77,
+      "unit": "%",
+      "tag": "答题正确率"
+    },
+    {
+      "rank": 1,
+      "name": "陶君芃",
+      "value": 100,
+      "tiedCount": 77,
+      "unit": "%",
+      "tag": "答题正确率"
+    },
+    {
+      "rank": 1,
+      "name": "王梓皓",
+      "value": 100,
+      "tiedCount": 77,
+      "unit": "%",
+      "tag": "答题正确率"
+    },
+    {
+      "rank": 1,
+      "name": "熊景杰",
+      "value": 100,
+      "tiedCount": 77,
+      "unit": "%",
+      "tag": "答题正确率"
+    },
+    {
+      "rank": 1,
+      "name": "卓杭",
+      "value": 100,
+      "tiedCount": 77,
+      "unit": "%",
+      "tag": "答题正确率"
+    },
+    {
+      "rank": 1,
+      "name": "陈梓络",
+      "value": 100,
+      "tiedCount": 77,
+      "unit": "%",
+      "tag": "答题正确率"
+    },
+    {
+      "rank": 1,
+      "name": "林雨桐",
+      "value": 100,
+      "tiedCount": 77,
+      "unit": "%",
+      "tag": "答题正确率"
+    },
+    {
+      "rank": 1,
+      "name": "郝诗涵",
+      "value": 100,
+      "tiedCount": 77,
+      "unit": "%",
+      "tag": "答题正确率"
+    },
+    {
+      "rank": 1,
+      "name": "郭析灵",
+      "value": 100,
+      "tiedCount": 77,
+      "unit": "%",
+      "tag": "答题正确率"
+    },
+    {
+      "rank": 1,
+      "name": "任柏霖",
+      "value": 100,
+      "tiedCount": 77,
+      "unit": "%",
+      "tag": "答题正确率"
+    },
+    {
+      "rank": 1,
+      "name": "曾千栩",
+      "value": 100,
+      "tiedCount": 77,
+      "unit": "%",
+      "tag": "答题正确率"
+    },
+    {
+      "rank": 1,
+      "name": "易天",
+      "value": 100,
+      "tiedCount": 77,
+      "unit": "%",
+      "tag": "答题正确率"
+    },
+    {
+      "rank": 1,
+      "name": "李乔伊",
+      "value": 100,
+      "tiedCount": 77,
+      "unit": "%",
+      "tag": "答题正确率"
+    },
+    {
+      "rank": 1,
+      "name": "付继宇",
+      "value": 100,
+      "tiedCount": 77,
+      "unit": "%",
+      "tag": "答题正确率"
+    },
+    {
+      "rank": 1,
+      "name": "小蕊",
+      "value": 100,
+      "tiedCount": 77,
+      "unit": "%",
+      "tag": "答题正确率"
+    }
+  ],
+  "homeworkTop20": [
+    {
+      "rank": 1,
+      "name": "赵林苒",
+      "value": 100,
+      "tiedCount": 1841,
+      "unit": "分",
+      "tag": "本课表现"
+    },
+    {
+      "rank": 1,
+      "name": "章梓岩",
+      "value": 100,
+      "tiedCount": 1841,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "蔡传雯",
+      "value": 100,
+      "tiedCount": 1841,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李沅芯",
+      "value": 100,
+      "tiedCount": 1841,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李虎林",
+      "value": 100,
+      "tiedCount": 1841,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "于乃槐",
+      "value": 100,
+      "tiedCount": 1841,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "万好",
+      "value": 100,
+      "tiedCount": 1841,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陶君芃",
+      "value": 100,
+      "tiedCount": 1841,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王梓皓",
+      "value": 100,
+      "tiedCount": 1841,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "熊景杰",
+      "value": 100,
+      "tiedCount": 1841,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "卓杭",
+      "value": 100,
+      "tiedCount": 1841,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈梓络",
+      "value": 100,
+      "tiedCount": 1841,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "林雨桐",
+      "value": 100,
+      "tiedCount": 1841,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "郝诗涵",
+      "value": 100,
+      "tiedCount": 1841,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "郭析灵",
+      "value": 100,
+      "tiedCount": 1841,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "任柏霖",
+      "value": 100,
+      "tiedCount": 1841,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "曾千栩",
+      "value": 100,
+      "tiedCount": 1841,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "易天",
+      "value": 100,
+      "tiedCount": 1841,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李乔伊",
+      "value": 100,
+      "tiedCount": 1841,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "付继宇",
+      "value": 100,
+      "tiedCount": 1841,
+      "unit": "分",
+      "tag": "作业完成"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <title>小组成长激励榜</title>
+    <link rel="stylesheet" href="../../assets/course.css" />
+  </head>
+  <body data-page="course-home">
+    <div class="page-shell">
+      <header class="hero card-observe">
+        <button id="home-back" class="hero-back" type="button">← 返回课程列表</button>
+        <div class="hero-decor hero-decor-left">🏆</div>
+        <div class="hero-decor hero-decor-right">🚀</div>
+        <p class="hero-kicker">家庭学习激励榜</p>
+        <h1 id="hero-title" class="hero-title"></h1>
+        <p id="hero-subtitle" class="hero-subtitle"></p>
+        <p id="hero-message" class="hero-message"></p>
+      </header>
+
+      <main id="home-view" class="content">
+        <section id="rank-card" class="panel rank-panel card-observe"></section>
+
+        <section class="panel card-observe">
+          <div class="section-head">
+            <h2>我的真实排名</h2>
+            <span class="section-tip">按本课真实报告计算</span>
+          </div>
+          <div id="extra-ranks" class="rule-list"></div>
+        </section>
+
+        <section class="panel card-observe">
+          <div class="section-head">
+            <h2>我的本课学习表现</h2>
+            <span class="section-tip">真实课程报告生成</span>
+          </div>
+          <div id="stats-grid" class="stats-grid"></div>
+        </section>
+
+        <section class="panel card-observe">
+          <div class="section-head">
+            <h2>成长积分规则</h2>
+          </div>
+          <div id="score-rules" class="rule-list"></div>
+          <p id="score-rule-summary" class="muted paragraph"></p>
+        </section>
+
+        <section class="panel card-observe">
+          <div class="section-head">
+            <h2>我的成长积分拆解</h2>
+            <span class="section-tip">主积分（满分 100）+ 彩蛋（最多 +15）</span>
+          </div>
+          <div id="growth-breakdown" class="rule-list"></div>
+          <div id="growth-score-summary" class="callout callout-soft"></div>
+          <div id="bonus-section" class="bonus-section hidden">
+            <h3 class="bonus-title">🌟 彩蛋激励</h3>
+            <div id="bonus-breakdown" class="rule-list"></div>
+            <p id="bonus-summary" class="muted paragraph"></p>
+          </div>
+        </section>
+
+        <section class="panel card-observe">
+          <div class="section-head">
+            <h2>全班成长总榜 TOP20</h2>
+            <a class="section-link" href="./detail.html?board=growth&page=1">查看全部 →</a>
+          </div>
+          <div id="class-top10" class="rank-list"></div>
+          <p class="muted paragraph">
+            家庭激励榜：基于本课表现和成长积分规则生成，用于鼓励学习。
+          </p>
+        </section>
+
+        <section class="panel card-observe">
+          <div class="section-head">
+            <h2>小组成长总榜 TOP10</h2>
+            <span class="section-tip">本地小组名单范围，附全班排名</span>
+          </div>
+          <div id="group-top10" class="rank-list"></div>
+        </section>
+
+        <section class="panel card-observe">
+          <div class="section-head">
+            <h2>全班互动榜 TOP20</h2>
+            <a class="section-link" href="./detail.html?board=interaction&page=1">查看全部 →</a>
+          </div>
+          <div id="interaction-top10" class="interaction-list"></div>
+          <div id="interaction-summary" class="callout callout-soft"></div>
+        </section>
+
+        <section class="panel card-observe">
+          <div class="section-head">
+            <h2>全班正确率榜 TOP20</h2>
+            <a class="section-link" href="./detail.html?board=accuracy&page=1">查看全部 →</a>
+          </div>
+          <div id="accuracy-top10" class="rank-list"></div>
+        </section>
+
+        <section class="panel card-observe">
+          <div class="section-head">
+            <h2>全班作业分榜 TOP20</h2>
+            <a class="section-link" href="./detail.html?board=homework&page=1">查看全部 →</a>
+          </div>
+          <div id="homework-top10" class="rank-list"></div>
+        </section>
+
+        <section class="panel card-observe">
+          <div class="section-head">
+            <div>
+              <h2>小组已完课榜</h2>
+              <p id="group-count" class="muted small"></p>
+            </div>
+          </div>
+          <div id="group-names" class="badge-wall"></div>
+          <p class="muted paragraph">
+            和这么多认真学习的小伙伴一起前进，真的很棒。
+          </p>
+        </section>
+
+        <section class="panel card-observe">
+          <div class="section-head">
+            <h2>下一次冲榜计划</h2>
+          </div>
+          <div id="goal-list" class="goal-list"></div>
+          <p class="muted paragraph">只要每次进步一点点，排名就会悄悄往前走。</p>
+        </section>
+
+        <section class="panel card-observe">
+          <div class="section-head">
+            <h2>成长小评语</h2>
+          </div>
+          <p id="commentary" class="commentary"></p>
+        </section>
+      </main>
+
+      <footer id="page-footer" class="footer card-observe">
+        <p class="footer-title">认真学习的你，已经在发光啦 ✨</p>
+        <button id="energy-button" class="energy-button" type="button">
+          继续加油
+        </button>
+        <p class="muted footer-note">
+          本页面为家庭学习激励榜，基于本课课程报告、全班真实报告结果和本地配置的小组名单生成，用于鼓励学习，不代表官方排名。
+        </p>
+      </footer>
+    </div>
+
+    <div id="toast" class="toast" aria-live="polite"></div>
+    <script src="../../assets/course-app.js"></script>
+  </body>
+</html>
