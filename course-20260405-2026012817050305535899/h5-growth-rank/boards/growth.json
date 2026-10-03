@@ -1,0 +1,10210 @@
+{
+  "key": "growth",
+  "title": "全班成长总榜",
+  "subtitle": "按成长积分排序",
+  "valueLabel": "成长积分",
+  "valueKey": "score",
+  "homeRows": [
+    {
+      "rank": 1,
+      "name": "程敬涵",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "稳定领跑"
+    },
+    {
+      "rank": 2,
+      "name": "段昱彤",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 3,
+      "name": "枫枫",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 4,
+      "name": "干杉杉",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 5,
+      "name": "高润崎",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 6,
+      "name": "高彦卓",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 7,
+      "name": "侯晓坤",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 8,
+      "name": "江昱呈",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 9,
+      "name": "节昕暄",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 10,
+      "name": "李易安",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 11,
+      "name": "刘宇桐",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 12,
+      "name": "路景硕",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 13,
+      "name": "马凯森",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 14,
+      "name": "马炎羲",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 15,
+      "name": "牛子睿",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 16,
+      "name": "彭俊博",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 17,
+      "name": "申正东",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 18,
+      "name": "宋修齐",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 19,
+      "name": "宋梓旗",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 20,
+      "name": "田子熠",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    }
+  ],
+  "allRows": [
+    {
+      "rank": 1,
+      "name": "程敬涵",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "稳定领跑"
+    },
+    {
+      "rank": 2,
+      "name": "段昱彤",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 3,
+      "name": "枫枫",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 4,
+      "name": "干杉杉",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 5,
+      "name": "高润崎",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 6,
+      "name": "高彦卓",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 7,
+      "name": "侯晓坤",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 8,
+      "name": "江昱呈",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 9,
+      "name": "节昕暄",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 10,
+      "name": "李易安",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 11,
+      "name": "刘宇桐",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 12,
+      "name": "路景硕",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 13,
+      "name": "马凯森",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 14,
+      "name": "马炎羲",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 15,
+      "name": "牛子睿",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 16,
+      "name": "彭俊博",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 17,
+      "name": "申正东",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 18,
+      "name": "宋修齐",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 19,
+      "name": "宋梓旗",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 20,
+      "name": "田子熠",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 21,
+      "name": "王诗玥",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 22,
+      "name": "王洋搏",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 23,
+      "name": "王翊博",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 24,
+      "name": "温明岳",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 25,
+      "name": "文新杰",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 26,
+      "name": "小石头",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 27,
+      "name": "阳阳",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 28,
+      "name": "杨睿祺",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 29,
+      "name": "张佳怡",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 30,
+      "name": "张景然",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 31,
+      "name": "张泽睿",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 32,
+      "name": "周奕桐",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 33,
+      "name": "白可可",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 34,
+      "name": "白翊阳",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 35,
+      "name": "曾林晨",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 36,
+      "name": "陈恩予",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 37,
+      "name": "陈非池",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 38,
+      "name": "陈清泽",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 39,
+      "name": "陈睿",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 40,
+      "name": "程程",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 41,
+      "name": "丁宇涵",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 42,
+      "name": "多米",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 43,
+      "name": "范瑾瑄",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 44,
+      "name": "郭璟瑄",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 45,
+      "name": "郝音霈",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 46,
+      "name": "何禾",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 47,
+      "name": "何天天",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 48,
+      "name": "胡佳晨",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 49,
+      "name": "胡晓雷",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 50,
+      "name": "黄煜瞳",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 51,
+      "name": "江皓恩",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 52,
+      "name": "孔植墨",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 53,
+      "name": "雷昆易",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 54,
+      "name": "李晨阳",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 55,
+      "name": "李韩泽楷",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 56,
+      "name": "李聿",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 57,
+      "name": "李泽冉",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 58,
+      "name": "梁东泽",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 59,
+      "name": "刘昀",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 60,
+      "name": "马到成功",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 61,
+      "name": "毛婉蒙",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 62,
+      "name": "毛奕然",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 63,
+      "name": "苗苗",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 64,
+      "name": "任书婳",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 65,
+      "name": "尚可",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 66,
+      "name": "水中月",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 67,
+      "name": "唐一萌",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 68,
+      "name": "田心",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 69,
+      "name": "田祖宁",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 70,
+      "name": "王果果",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 71,
+      "name": "王佳杭",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 72,
+      "name": "王骏鸣",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 73,
+      "name": "王栎棋",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 74,
+      "name": "王骞宇",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 75,
+      "name": "王志航",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 76,
+      "name": "王姿淇",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 77,
+      "name": "文璋",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 78,
+      "name": "吴梓豪",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 79,
+      "name": "肖贺轩",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 80,
+      "name": "熊浩然",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 81,
+      "name": "熊潇然",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 82,
+      "name": "许颖妍",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 83,
+      "name": "言言",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 84,
+      "name": "杨博涵",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 85,
+      "name": "于智晟",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 86,
+      "name": "张绍凡",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 87,
+      "name": "张潇月",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 88,
+      "name": "张潆尹",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 89,
+      "name": "张运景",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 90,
+      "name": "赵筱北",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 91,
+      "name": "别文轩",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 92,
+      "name": "蔡芷瑜",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 93,
+      "name": "曾柯程",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 94,
+      "name": "陈若溪",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 95,
+      "name": "陈稣",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 96,
+      "name": "陈玟旭",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 97,
+      "name": "陈宇熙",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 98,
+      "name": "陈宇轩",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 99,
+      "name": "陈昭",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 100,
+      "name": "程路茗",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 101,
+      "name": "丁奕宁",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 102,
+      "name": "董致远",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 103,
+      "name": "冯语梵",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 104,
+      "name": "关关",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 105,
+      "name": "郭晰",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 106,
+      "name": "郝心晴",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 107,
+      "name": "何恒逸",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 108,
+      "name": "黄兰茜",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 109,
+      "name": "黄魏煦蕊",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 110,
+      "name": "佳宇",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 111,
+      "name": "贾儒林",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 112,
+      "name": "兰敦闵",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 113,
+      "name": "黎博宇",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 114,
+      "name": "李乔安",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 115,
+      "name": "李润贤",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 116,
+      "name": "李若依",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 117,
+      "name": "李思思",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 118,
+      "name": "李文瀚",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 119,
+      "name": "李文森",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 120,
+      "name": "李昕芮",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 121,
+      "name": "李昕桐",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 122,
+      "name": "李乙鑫",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 123,
+      "name": "李梓瑞",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 124,
+      "name": "栗雪晴",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 125,
+      "name": "刘君诚",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 126,
+      "name": "刘茂雨",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 127,
+      "name": "刘梦琪",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 128,
+      "name": "刘诗娅",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 129,
+      "name": "刘轩昊",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 130,
+      "name": "刘妍诗",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 131,
+      "name": "刘攸宁",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 132,
+      "name": "刘泽可",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 133,
+      "name": "吕景泽",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 134,
+      "name": "罗熙雯",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 135,
+      "name": "马镜轩",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 136,
+      "name": "毛渝涵",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 137,
+      "name": "苗芸溪",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 138,
+      "name": "钱禹诺",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 139,
+      "name": "任葉恒綺",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 140,
+      "name": "睿睿",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 141,
+      "name": "尚佳浩",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 142,
+      "name": "石坷欣",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 143,
+      "name": "史一行",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 144,
+      "name": "宋雨橙",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 145,
+      "name": "苏隽霖",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 146,
+      "name": "田依灵",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 147,
+      "name": "佟若鱼",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 148,
+      "name": "万晨聿",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 149,
+      "name": "汪嘉璟",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 150,
+      "name": "王承尧",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 151,
+      "name": "王俊峰",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 152,
+      "name": "王麟逍",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 153,
+      "name": "王谦益",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 154,
+      "name": "王宣轶",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 155,
+      "name": "王萱琪",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 156,
+      "name": "王一一",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 157,
+      "name": "王旖橙",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 158,
+      "name": "王哲",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 159,
+      "name": "王梓瀚",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 160,
+      "name": "王梓童",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 161,
+      "name": "卫宇泽",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 162,
+      "name": "吴佳玟",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 163,
+      "name": "吴骏毅",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 164,
+      "name": "吴怿心",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 165,
+      "name": "吴昀澔",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 166,
+      "name": "武伊冉",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 167,
+      "name": "兮兮",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 168,
+      "name": "希希",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 169,
+      "name": "小慈",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 170,
+      "name": "谢辰远",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 171,
+      "name": "邢雨宸",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 172,
+      "name": "徐舒也",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 173,
+      "name": "徐彦晞",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 174,
+      "name": "薛依桐",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 175,
+      "name": "薛以安",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 176,
+      "name": "言行",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 177,
+      "name": "颜亦扬",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 178,
+      "name": "杨浏帆",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 179,
+      "name": "杨顺淏",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 180,
+      "name": "姚淞严",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 181,
+      "name": "郁骐临",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 182,
+      "name": "彧卿",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 183,
+      "name": "袁婧璇",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 184,
+      "name": "詹天齐",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 185,
+      "name": "张婧妍",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 186,
+      "name": "张睿谦",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 187,
+      "name": "张湘绮",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 188,
+      "name": "张雨琪",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 189,
+      "name": "张竹心",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 190,
+      "name": "周碧麒",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 191,
+      "name": "周家毅",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 192,
+      "name": "周云舒",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 193,
+      "name": "周子茹",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 194,
+      "name": "朱俊安",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 195,
+      "name": "Emily同学",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 196,
+      "name": "毕笑祎",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 197,
+      "name": "曹棋俊",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 198,
+      "name": "车金睿",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 199,
+      "name": "陈玺宇",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 200,
+      "name": "邓景之",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 201,
+      "name": "邓文周",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 202,
+      "name": "丁子宸",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 203,
+      "name": "樊一璇",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 204,
+      "name": "费琳",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 205,
+      "name": "峰峰",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 206,
+      "name": "果果",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 207,
+      "name": "韩易道",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 208,
+      "name": "豪哥",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 209,
+      "name": "黄嘉诺",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 210,
+      "name": "黄小宝",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 211,
+      "name": "李冬",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 212,
+      "name": "李昊轩",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 213,
+      "name": "李来特",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 214,
+      "name": "李姝悦",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 215,
+      "name": "李思霆墨",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 216,
+      "name": "李羽竣",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 217,
+      "name": "聆哲",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 218,
+      "name": "刘皓晅",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 219,
+      "name": "刘佳禾",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 220,
+      "name": "刘睿彤",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 221,
+      "name": "刘轩延",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 222,
+      "name": "马新蕊",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 223,
+      "name": "鹏轩",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 224,
+      "name": "齐若冰",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 225,
+      "name": "孙敬涵",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 226,
+      "name": "孙睿珩",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 227,
+      "name": "唐果果",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 228,
+      "name": "王品尧",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 229,
+      "name": "王艺菲",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 230,
+      "name": "吴锡",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 231,
+      "name": "潇潇",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 232,
+      "name": "肖晨羿",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 233,
+      "name": "谢博娴谢博婧",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 234,
+      "name": "杨以安",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 235,
+      "name": "姚远",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 236,
+      "name": "余伊禾",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 237,
+      "name": "袁书畅",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 238,
+      "name": "张涵铄",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 239,
+      "name": "张津浩",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 240,
+      "name": "张甯皓",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 241,
+      "name": "张誉馨",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 242,
+      "name": "張滈軒",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 243,
+      "name": "郑彬",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 244,
+      "name": "周梓睿",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 245,
+      "name": "朱显曌",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 246,
+      "name": "朱祉安",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 247,
+      "name": "廖东森",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 248,
+      "name": "杨欣仪",
+      "score": 100,
+      "tiedCount": 248,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 249,
+      "name": "冉梓昊",
+      "score": 99.6,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 250,
+      "name": "杜承龙",
+      "score": 99.5,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 251,
+      "name": "李川",
+      "score": 99.5,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 252,
+      "name": "梁栩晨",
+      "score": 99.5,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 253,
+      "name": "黄欣愉",
+      "score": 99.2,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 254,
+      "name": "袁诗涵",
+      "score": 99.1,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 255,
+      "name": "洪焕轩",
+      "score": 98.9,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 256,
+      "name": "白景桓",
+      "score": 98.8,
+      "tiedCount": 41,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 257,
+      "name": "曾粤宸",
+      "score": 98.8,
+      "tiedCount": 41,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 258,
+      "name": "陈浚文",
+      "score": 98.8,
+      "tiedCount": 41,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 259,
+      "name": "程立顺",
+      "score": 98.8,
+      "tiedCount": 41,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 260,
+      "name": "代舒娴",
+      "score": 98.8,
+      "tiedCount": 41,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 261,
+      "name": "杜顺毅",
+      "score": 98.8,
+      "tiedCount": 41,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 262,
+      "name": "范姝彤",
+      "score": 98.8,
+      "tiedCount": 41,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 263,
+      "name": "方熹",
+      "score": 98.8,
+      "tiedCount": 41,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 264,
+      "name": "房芯妙",
+      "score": 98.8,
+      "tiedCount": 41,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 265,
+      "name": "耿君沫",
+      "score": 98.8,
+      "tiedCount": 41,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 266,
+      "name": "郭以琦",
+      "score": 98.8,
+      "tiedCount": 41,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 267,
+      "name": "黄千益",
+      "score": 98.8,
+      "tiedCount": 41,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 268,
+      "name": "黄熙桐",
+      "score": 98.8,
+      "tiedCount": 41,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 269,
+      "name": "贾智睿",
+      "score": 98.8,
+      "tiedCount": 41,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 270,
+      "name": "孔德屹",
+      "score": 98.8,
+      "tiedCount": 41,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 271,
+      "name": "李佳峻",
+      "score": 98.8,
+      "tiedCount": 41,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 272,
+      "name": "李融泽",
+      "score": 98.8,
+      "tiedCount": 41,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 273,
+      "name": "李尚泽",
+      "score": 98.8,
+      "tiedCount": 41,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 274,
+      "name": "李姝妍",
+      "score": 98.8,
+      "tiedCount": 41,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 275,
+      "name": "李宣辰",
+      "score": 98.8,
+      "tiedCount": 41,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 276,
+      "name": "刘泽玹",
+      "score": 98.8,
+      "tiedCount": 41,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 277,
+      "name": "卢峻可",
+      "score": 98.8,
+      "tiedCount": 41,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 278,
+      "name": "邱艺潇",
+      "score": 98.8,
+      "tiedCount": 41,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 279,
+      "name": "盛忻晔",
+      "score": 98.8,
+      "tiedCount": 41,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 280,
+      "name": "宋峻丞",
+      "score": 98.8,
+      "tiedCount": 41,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 281,
+      "name": "孙一维",
+      "score": 98.8,
+      "tiedCount": 41,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 282,
+      "name": "田方和",
+      "score": 98.8,
+      "tiedCount": 41,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 283,
+      "name": "桐桐",
+      "score": 98.8,
+      "tiedCount": 41,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 284,
+      "name": "王浩丞",
+      "score": 98.8,
+      "tiedCount": 41,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 285,
+      "name": "王誉涵",
+      "score": 98.8,
+      "tiedCount": 41,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 286,
+      "name": "徐浚哲",
+      "score": 98.8,
+      "tiedCount": 41,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 287,
+      "name": "徐绮",
+      "score": 98.8,
+      "tiedCount": 41,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 288,
+      "name": "许家祯",
+      "score": 98.8,
+      "tiedCount": 41,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 289,
+      "name": "严兮",
+      "score": 98.8,
+      "tiedCount": 41,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 290,
+      "name": "杨葉瑶",
+      "score": 98.8,
+      "tiedCount": 41,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 291,
+      "name": "张济韬",
+      "score": 98.8,
+      "tiedCount": 41,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 292,
+      "name": "张家豪",
+      "score": 98.8,
+      "tiedCount": 41,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 293,
+      "name": "张淑茗",
+      "score": 98.8,
+      "tiedCount": 41,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 294,
+      "name": "赵建智",
+      "score": 98.8,
+      "tiedCount": 41,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 295,
+      "name": "赵启凡",
+      "score": 98.8,
+      "tiedCount": 41,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 296,
+      "name": "赵雨晨",
+      "score": 98.8,
+      "tiedCount": 41,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 297,
+      "name": "贝塔",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 298,
+      "name": "陈楚文",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 299,
+      "name": "陈俊涵",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 300,
+      "name": "陈马",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 301,
+      "name": "崔佳诺",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 302,
+      "name": "冯伟轩",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 303,
+      "name": "韩佳霖",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 304,
+      "name": "韩雨杉",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 305,
+      "name": "洪启博",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 306,
+      "name": "花卷儿",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 307,
+      "name": "黄麒峰",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 308,
+      "name": "黄煜淇",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 309,
+      "name": "霍柯帆",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 310,
+      "name": "嘉仪",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 311,
+      "name": "劳思涵",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 312,
+      "name": "李纲",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 313,
+      "name": "李沐萱",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 314,
+      "name": "李若菲",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 315,
+      "name": "李政",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 316,
+      "name": "廖梓恺",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 317,
+      "name": "沐沐",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 318,
+      "name": "倪曼文",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 319,
+      "name": "倪梓宸",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 320,
+      "name": "牛兆润",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 321,
+      "name": "秦有延",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 322,
+      "name": "任佳宁",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 323,
+      "name": "任乃千",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 324,
+      "name": "苏启翯",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 325,
+      "name": "桃桃",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 326,
+      "name": "田景睿",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 327,
+      "name": "田梦洁",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 328,
+      "name": "汪裕童",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 329,
+      "name": "王启航",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 330,
+      "name": "王秋语",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 331,
+      "name": "小熊老师",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 332,
+      "name": "许晨希",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 333,
+      "name": "杨家烁",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 334,
+      "name": "姚星舟",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 335,
+      "name": "叶子萱",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 336,
+      "name": "张涵颖",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 337,
+      "name": "张夏馨",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 338,
+      "name": "张益恺",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 339,
+      "name": "章亦晨",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 340,
+      "name": "赵艺",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 341,
+      "name": "周文然",
+      "score": 98.3,
+      "tiedCount": 45,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 342,
+      "name": "樊钰航",
+      "score": 97.9,
+      "tiedCount": 16,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 343,
+      "name": "李沛辰",
+      "score": 97.9,
+      "tiedCount": 16,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 344,
+      "name": "范承阳",
+      "score": 97.9,
+      "tiedCount": 16,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 345,
+      "name": "金相羽",
+      "score": 97.9,
+      "tiedCount": 16,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 346,
+      "name": "芦峻屹",
+      "score": 97.9,
+      "tiedCount": 16,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 347,
+      "name": "吕叔桐",
+      "score": 97.9,
+      "tiedCount": 16,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 348,
+      "name": "苗师儒",
+      "score": 97.9,
+      "tiedCount": 16,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 349,
+      "name": "南宫绍坤",
+      "score": 97.9,
+      "tiedCount": 16,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 350,
+      "name": "钱景嵘",
+      "score": 97.9,
+      "tiedCount": 16,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 351,
+      "name": "孙楷文",
+      "score": 97.9,
+      "tiedCount": 16,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 352,
+      "name": "王子琛",
+      "score": 97.9,
+      "tiedCount": 16,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 353,
+      "name": "许开心",
+      "score": 97.9,
+      "tiedCount": 16,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 354,
+      "name": "喻嵩涵",
+      "score": 97.9,
+      "tiedCount": 16,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 355,
+      "name": "臧宸容",
+      "score": 97.9,
+      "tiedCount": 16,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 356,
+      "name": "郑惠尹",
+      "score": 97.9,
+      "tiedCount": 16,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 357,
+      "name": "刘骁锐",
+      "score": 97.9,
+      "tiedCount": 16,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 358,
+      "name": "又又",
+      "score": 97.7,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 359,
+      "name": "王霖蒂",
+      "score": 97.5,
+      "tiedCount": 4,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 360,
+      "name": "闫宸睿",
+      "score": 97.5,
+      "tiedCount": 4,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 361,
+      "name": "胡杨芊芊",
+      "score": 97.5,
+      "tiedCount": 4,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 362,
+      "name": "梁灏迪",
+      "score": 97.5,
+      "tiedCount": 4,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 363,
+      "name": "蔡锦添",
+      "score": 97.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 364,
+      "name": "陈华清",
+      "score": 97.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 365,
+      "name": "陈澍圻",
+      "score": 97.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 366,
+      "name": "程佳远",
+      "score": 97.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 367,
+      "name": "丁珞歆",
+      "score": 97.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 368,
+      "name": "苟一冉",
+      "score": 97.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 369,
+      "name": "纪涵奕",
+      "score": 97.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 370,
+      "name": "李佳霖",
+      "score": 97.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 371,
+      "name": "李嘉阳",
+      "score": 97.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 372,
+      "name": "李子昀",
+      "score": 97.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 373,
+      "name": "厉晗",
+      "score": 97.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 374,
+      "name": "刘吴一凡",
+      "score": 97.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 375,
+      "name": "刘政毅",
+      "score": 97.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 376,
+      "name": "牛若蘅",
+      "score": 97.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 377,
+      "name": "潘成硕",
+      "score": 97.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 378,
+      "name": "潼潼",
+      "score": 97.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 379,
+      "name": "王浚瑜",
+      "score": 97.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 380,
+      "name": "杨禹诺",
+      "score": 97.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 381,
+      "name": "张家上",
+      "score": 97.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 382,
+      "name": "赵婧雯",
+      "score": 97.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 383,
+      "name": "钟淑羽",
+      "score": 97.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 384,
+      "name": "李道彬",
+      "score": 97.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 385,
+      "name": "李子钰",
+      "score": 97.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 386,
+      "name": "王昭辰",
+      "score": 97.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 387,
+      "name": "张贵致",
+      "score": 97.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 388,
+      "name": "张艺可",
+      "score": 97.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 389,
+      "name": "刘泽宁",
+      "score": 97.1,
+      "tiedCount": 28,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 390,
+      "name": "马晓涛",
+      "score": 97.1,
+      "tiedCount": 28,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 391,
+      "name": "林佳融",
+      "score": 96.7,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 392,
+      "name": "王泽卿",
+      "score": 96.7,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 393,
+      "name": "郭家源",
+      "score": 96.7,
+      "tiedCount": 3,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 394,
+      "name": "蔡棕阳",
+      "score": 96.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 395,
+      "name": "曹原",
+      "score": 96.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 396,
+      "name": "陈景渝",
+      "score": 96.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 397,
+      "name": "丁瑞旭",
+      "score": 96.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 398,
+      "name": "樊宣辰",
+      "score": 96.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 399,
+      "name": "樊梓文",
+      "score": 96.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 400,
+      "name": "福宝",
+      "score": 96.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 401,
+      "name": "韩佳岑",
+      "score": 96.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 402,
+      "name": "韩梓汐",
+      "score": 96.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 403,
+      "name": "赫赫",
+      "score": 96.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 404,
+      "name": "胡诗瑶",
+      "score": 96.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 405,
+      "name": "李逸晨",
+      "score": 96.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 406,
+      "name": "林睿淇",
+      "score": 96.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 407,
+      "name": "刘弈成",
+      "score": 96.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 408,
+      "name": "秦运延",
+      "score": 96.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 409,
+      "name": "桑依依",
+      "score": 96.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 410,
+      "name": "沈彦伯",
+      "score": 96.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 411,
+      "name": "思思",
+      "score": 96.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 412,
+      "name": "孙睿泽",
+      "score": 96.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 413,
+      "name": "孙一航",
+      "score": 96.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 414,
+      "name": "杨索菲",
+      "score": 96.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 415,
+      "name": "杨向荣",
+      "score": 96.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 416,
+      "name": "依依",
+      "score": 96.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 417,
+      "name": "尹思宸",
+      "score": 96.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 418,
+      "name": "于佳文",
+      "score": 96.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 419,
+      "name": "张嘉宸",
+      "score": 96.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 420,
+      "name": "张晓宇",
+      "score": 96.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 421,
+      "name": "张雅倩",
+      "score": 96.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 422,
+      "name": "张玴鸣",
+      "score": 96.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 423,
+      "name": "刘佳宜",
+      "score": 96.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 424,
+      "name": "赵海轩",
+      "score": 96.3,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 425,
+      "name": "1",
+      "score": 96.2,
+      "tiedCount": 32,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 426,
+      "name": "陈桓可",
+      "score": 96.2,
+      "tiedCount": 32,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 427,
+      "name": "陈洂汐",
+      "score": 96.2,
+      "tiedCount": 32,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 428,
+      "name": "陈怡珲",
+      "score": 96.2,
+      "tiedCount": 32,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 429,
+      "name": "代浚懿",
+      "score": 96.2,
+      "tiedCount": 32,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 430,
+      "name": "董峻阁",
+      "score": 96.2,
+      "tiedCount": 32,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 431,
+      "name": "杜芳漫",
+      "score": 96.2,
+      "tiedCount": 32,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 432,
+      "name": "段皓文",
+      "score": 96.2,
+      "tiedCount": 32,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 433,
+      "name": "哆啦a梦",
+      "score": 96.2,
+      "tiedCount": 32,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 434,
+      "name": "冯欣辰",
+      "score": 96.2,
+      "tiedCount": 32,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 435,
+      "name": "巩科延",
+      "score": 96.2,
+      "tiedCount": 32,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 436,
+      "name": "何浩然",
+      "score": 96.2,
+      "tiedCount": 32,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 437,
+      "name": "洪浩程",
+      "score": 96.2,
+      "tiedCount": 32,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 438,
+      "name": "姜智皓",
+      "score": 96.2,
+      "tiedCount": 32,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 439,
+      "name": "李沐原",
+      "score": 96.2,
+      "tiedCount": 32,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 440,
+      "name": "梁金迪",
+      "score": 96.2,
+      "tiedCount": 32,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 441,
+      "name": "洛嫣和雨希",
+      "score": 96.2,
+      "tiedCount": 32,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 442,
+      "name": "孟煜然",
+      "score": 96.2,
+      "tiedCount": 32,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 443,
+      "name": "潘晓车",
+      "score": 96.2,
+      "tiedCount": 32,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 444,
+      "name": "球球",
+      "score": 96.2,
+      "tiedCount": 32,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 445,
+      "name": "荣若一",
+      "score": 96.2,
+      "tiedCount": 32,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 446,
+      "name": "帅俊希",
+      "score": 96.2,
+      "tiedCount": 32,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 447,
+      "name": "帅乐",
+      "score": 96.2,
+      "tiedCount": 32,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 448,
+      "name": "王希迅",
+      "score": 96.2,
+      "tiedCount": 32,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 449,
+      "name": "温梓濠",
+      "score": 96.2,
+      "tiedCount": 32,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 450,
+      "name": "吴昊轩",
+      "score": 96.2,
+      "tiedCount": 32,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 451,
+      "name": "阅阳",
+      "score": 96.2,
+      "tiedCount": 32,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 452,
+      "name": "张丼丼",
+      "score": 96.2,
+      "tiedCount": 32,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 453,
+      "name": "张景棋",
+      "score": 96.2,
+      "tiedCount": 32,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 454,
+      "name": "赵晨曦",
+      "score": 96.2,
+      "tiedCount": 32,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 455,
+      "name": "郑霖轩",
+      "score": 96.2,
+      "tiedCount": 32,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 456,
+      "name": "朱子宁",
+      "score": 96.2,
+      "tiedCount": 32,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 457,
+      "name": "吴以泊",
+      "score": 96.1,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 458,
+      "name": "蛋卷",
+      "score": 95.8,
+      "tiedCount": 20,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 459,
+      "name": "何秉萱",
+      "score": 95.8,
+      "tiedCount": 20,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 460,
+      "name": "何雨谦",
+      "score": 95.8,
+      "tiedCount": 20,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 461,
+      "name": "霍雨浩",
+      "score": 95.8,
+      "tiedCount": 20,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 462,
+      "name": "家昊",
+      "score": 95.8,
+      "tiedCount": 20,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 463,
+      "name": "孔凡睿",
+      "score": 95.8,
+      "tiedCount": 20,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 464,
+      "name": "李馨玥",
+      "score": 95.8,
+      "tiedCount": 20,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 465,
+      "name": "刘子妤",
+      "score": 95.8,
+      "tiedCount": 20,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 466,
+      "name": "芦谦泽",
+      "score": 95.8,
+      "tiedCount": 20,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 467,
+      "name": "任宇辰",
+      "score": 95.8,
+      "tiedCount": 20,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 468,
+      "name": "孙笑凡",
+      "score": 95.8,
+      "tiedCount": 20,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 469,
+      "name": "谭皓文",
+      "score": 95.8,
+      "tiedCount": 20,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 470,
+      "name": "团子",
+      "score": 95.8,
+      "tiedCount": 20,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 471,
+      "name": "王雨桐",
+      "score": 95.8,
+      "tiedCount": 20,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 472,
+      "name": "王梓毅",
+      "score": 95.8,
+      "tiedCount": 20,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 473,
+      "name": "徐源成",
+      "score": 95.8,
+      "tiedCount": 20,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 474,
+      "name": "杨璟雯",
+      "score": 95.8,
+      "tiedCount": 20,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 475,
+      "name": "杨曜荣",
+      "score": 95.8,
+      "tiedCount": 20,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 476,
+      "name": "岳倚帆",
+      "score": 95.8,
+      "tiedCount": 20,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 477,
+      "name": "周珈伊",
+      "score": 95.8,
+      "tiedCount": 20,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 478,
+      "name": "帅亦之",
+      "score": 95.5,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 479,
+      "name": "田瑾萱",
+      "score": 95.5,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 480,
+      "name": "吴釨洋",
+      "score": 95.5,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 481,
+      "name": "张行",
+      "score": 95.4,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 482,
+      "name": "蔡政宸",
+      "score": 95.2,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 483,
+      "name": "冯谦麟",
+      "score": 95,
+      "tiedCount": 15,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 484,
+      "name": "郭宸宇",
+      "score": 95,
+      "tiedCount": 15,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 485,
+      "name": "李玙桐",
+      "score": 95,
+      "tiedCount": 15,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 486,
+      "name": "彭晨洛",
+      "score": 95,
+      "tiedCount": 15,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 487,
+      "name": "武语羲",
+      "score": 95,
+      "tiedCount": 15,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 488,
+      "name": "杨乃芃",
+      "score": 95,
+      "tiedCount": 15,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 489,
+      "name": "张楷泽",
+      "score": 95,
+      "tiedCount": 15,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 490,
+      "name": "曾俊豪",
+      "score": 95,
+      "tiedCount": 15,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 491,
+      "name": "冯悦颖",
+      "score": 95,
+      "tiedCount": 15,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 492,
+      "name": "利正源",
+      "score": 95,
+      "tiedCount": 15,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 493,
+      "name": "张沐兮",
+      "score": 95,
+      "tiedCount": 15,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 494,
+      "name": "范堇曈",
+      "score": 95,
+      "tiedCount": 15,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 495,
+      "name": "李沫歆",
+      "score": 95,
+      "tiedCount": 15,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 496,
+      "name": "邹惠森",
+      "score": 95,
+      "tiedCount": 15,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 497,
+      "name": "完颜至善",
+      "score": 95,
+      "tiedCount": 15,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 498,
+      "name": "李嘉树",
+      "score": 94.9,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 499,
+      "name": "张浚皓",
+      "score": 94.8,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 500,
+      "name": "刘语兮",
+      "score": 94.6,
+      "tiedCount": 30,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 501,
+      "name": "然然",
+      "score": 94.6,
+      "tiedCount": 30,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 502,
+      "name": "曹容瑄",
+      "score": 94.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 503,
+      "name": "陈浩文",
+      "score": 94.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 504,
+      "name": "付羡羽",
+      "score": 94.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 505,
+      "name": "高嘉旖",
+      "score": 94.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 506,
+      "name": "高妍熙",
+      "score": 94.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 507,
+      "name": "贾谨荣",
+      "score": 94.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 508,
+      "name": "敬子晨",
+      "score": 94.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 509,
+      "name": "康贝尔",
+      "score": 94.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 510,
+      "name": "李昊泽",
+      "score": 94.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 511,
+      "name": "李佑辰",
+      "score": 94.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 512,
+      "name": "吕明轩",
+      "score": 94.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 513,
+      "name": "马源汐",
+      "score": 94.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 514,
+      "name": "沈佳怡",
+      "score": 94.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 515,
+      "name": "思齐",
+      "score": 94.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 516,
+      "name": "苏梓轩",
+      "score": 94.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 517,
+      "name": "童钱辰",
+      "score": 94.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 518,
+      "name": "吴梦阳",
+      "score": 94.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 519,
+      "name": "燕春桥",
+      "score": 94.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 520,
+      "name": "杨沐铎",
+      "score": 94.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 521,
+      "name": "杨沐沅",
+      "score": 94.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 522,
+      "name": "杨晓柔",
+      "score": 94.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 523,
+      "name": "张天沐",
+      "score": 94.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 524,
+      "name": "周忞之",
+      "score": 94.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 525,
+      "name": "周意舒",
+      "score": 94.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 526,
+      "name": "周子宸",
+      "score": 94.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 527,
+      "name": "乔鹏宇",
+      "score": 94.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 528,
+      "name": "张博然",
+      "score": 94.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 529,
+      "name": "赵枢洋",
+      "score": 94.6,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 530,
+      "name": "袁浚哲",
+      "score": 94.5,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 531,
+      "name": "陈睿恩",
+      "score": 94.2,
+      "tiedCount": 9,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 532,
+      "name": "程程",
+      "score": 94.2,
+      "tiedCount": 9,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 533,
+      "name": "郭梓瑞",
+      "score": 94.2,
+      "tiedCount": 9,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 534,
+      "name": "黄子渊",
+      "score": 94.2,
+      "tiedCount": 9,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 535,
+      "name": "林融会",
+      "score": 94.2,
+      "tiedCount": 9,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 536,
+      "name": "刘起菲",
+      "score": 94.2,
+      "tiedCount": 9,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 537,
+      "name": "孟碧辰",
+      "score": 94.2,
+      "tiedCount": 9,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 538,
+      "name": "田信",
+      "score": 94.2,
+      "tiedCount": 9,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 539,
+      "name": "谢子墨",
+      "score": 94.2,
+      "tiedCount": 9,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 540,
+      "name": "张恒语",
+      "score": 94,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 541,
+      "name": "余天棋",
+      "score": 93.8,
+      "tiedCount": 7,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 542,
+      "name": "初礼的月光",
+      "score": 93.8,
+      "tiedCount": 7,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 543,
+      "name": "李沐菡",
+      "score": 93.8,
+      "tiedCount": 7,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 544,
+      "name": "马云溪",
+      "score": 93.8,
+      "tiedCount": 7,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 545,
+      "name": "唐子宸",
+      "score": 93.8,
+      "tiedCount": 7,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 546,
+      "name": "滕悦汐",
+      "score": 93.8,
+      "tiedCount": 7,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 547,
+      "name": "徐满翊",
+      "score": 93.8,
+      "tiedCount": 7,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 548,
+      "name": "袁嘉璐",
+      "score": 93.7,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 549,
+      "name": "付讷言",
+      "score": 93.6,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 550,
+      "name": "陈禹希",
+      "score": 93.5,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 551,
+      "name": "虎子",
+      "score": 93.4,
+      "tiedCount": 4,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 552,
+      "name": "林何亦秾",
+      "score": 93.4,
+      "tiedCount": 4,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 553,
+      "name": "孙铭禹",
+      "score": 93.4,
+      "tiedCount": 4,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 554,
+      "name": "薛子恒",
+      "score": 93.4,
+      "tiedCount": 4,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 555,
+      "name": "孙屹坤",
+      "score": 93.3,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 556,
+      "name": "张翼翔",
+      "score": 93.3,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 557,
+      "name": "歆歆",
+      "score": 93.2,
+      "tiedCount": 2,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 558,
+      "name": "林康宇",
+      "score": 93.2,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 559,
+      "name": "陈雅师",
+      "score": 92.9,
+      "tiedCount": 4,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 560,
+      "name": "谷铮",
+      "score": 92.9,
+      "tiedCount": 4,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 561,
+      "name": "黄姝苒",
+      "score": 92.9,
+      "tiedCount": 4,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 562,
+      "name": "司家赫",
+      "score": 92.9,
+      "tiedCount": 4,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 563,
+      "name": "金湛",
+      "score": 92.6,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 564,
+      "name": "崔雅晴",
+      "score": 92.5,
+      "tiedCount": 7,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 565,
+      "name": "淦子谦",
+      "score": 92.5,
+      "tiedCount": 7,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 566,
+      "name": "韩宇童",
+      "score": 92.5,
+      "tiedCount": 7,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 567,
+      "name": "姜铛铛",
+      "score": 92.5,
+      "tiedCount": 7,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 568,
+      "name": "梁曾宇",
+      "score": 92.5,
+      "tiedCount": 7,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 569,
+      "name": "任飞玥",
+      "score": 92.5,
+      "tiedCount": 7,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 570,
+      "name": "朱安琪",
+      "score": 92.5,
+      "tiedCount": 7,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 571,
+      "name": "漆思含",
+      "score": 92.2,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 572,
+      "name": "李妍萱",
+      "score": 92.2,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 573,
+      "name": "樊子睿",
+      "score": 92.1,
+      "tiedCount": 6,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 574,
+      "name": "蒋曦冉",
+      "score": 92.1,
+      "tiedCount": 6,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 575,
+      "name": "李希彤",
+      "score": 92.1,
+      "tiedCount": 6,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 576,
+      "name": "李一诺",
+      "score": 92.1,
+      "tiedCount": 6,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 577,
+      "name": "王峥泽",
+      "score": 92.1,
+      "tiedCount": 6,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 578,
+      "name": "杨子江",
+      "score": 92.1,
+      "tiedCount": 6,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 579,
+      "name": "李靖巧",
+      "score": 91.8,
+      "tiedCount": 1,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 580,
+      "name": "刘宸祎",
+      "score": 91.7,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 581,
+      "name": "殷翊洋",
+      "score": 91.7,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 582,
+      "name": "邓乙凯",
+      "score": 91.4,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 583,
+      "name": "子曦",
+      "score": 91.3,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 584,
+      "name": "冯景轩",
+      "score": 91.2,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 585,
+      "name": "李宜泽",
+      "score": 91.2,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 586,
+      "name": "郭泽瑞",
+      "score": 90.9,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 587,
+      "name": "陈谦裕",
+      "score": 90.8,
+      "tiedCount": 5,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 588,
+      "name": "段昱灼",
+      "score": 90.8,
+      "tiedCount": 5,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 589,
+      "name": "唐梓源",
+      "score": 90.8,
+      "tiedCount": 5,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 590,
+      "name": "尹子赫",
+      "score": 90.8,
+      "tiedCount": 5,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 591,
+      "name": "袁瑞奇",
+      "score": 90.8,
+      "tiedCount": 5,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 592,
+      "name": "王昱尧",
+      "score": 90.3,
+      "tiedCount": 1,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 593,
+      "name": "梁颢蓝",
+      "score": 90.1,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 594,
+      "name": "王博霖",
+      "score": 90.1,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 595,
+      "name": "秦叙源",
+      "score": 90.1,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 596,
+      "name": "胡羿鸣",
+      "score": 90,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 597,
+      "name": "刘俊喆",
+      "score": 90,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 598,
+      "name": "白岳顺宇",
+      "score": 89.9,
+      "tiedCount": 23,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 599,
+      "name": "陈俊杰",
+      "score": 89.9,
+      "tiedCount": 23,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 600,
+      "name": "陈学李",
+      "score": 89.9,
+      "tiedCount": 23,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 601,
+      "name": "褚倍赫",
+      "score": 89.9,
+      "tiedCount": 23,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 602,
+      "name": "果果",
+      "score": 89.9,
+      "tiedCount": 23,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 603,
+      "name": "李东泽",
+      "score": 89.9,
+      "tiedCount": 23,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 604,
+      "name": "李铭泽",
+      "score": 89.9,
+      "tiedCount": 23,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 605,
+      "name": "李沐阳",
+      "score": 89.9,
+      "tiedCount": 23,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 606,
+      "name": "罗娜尔",
+      "score": 89.9,
+      "tiedCount": 23,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 607,
+      "name": "蒲泽玥",
+      "score": 89.9,
+      "tiedCount": 23,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 608,
+      "name": "齐禹硕",
+      "score": 89.9,
+      "tiedCount": 23,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 609,
+      "name": "尚宇昂",
+      "score": 89.9,
+      "tiedCount": 23,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 610,
+      "name": "王春临",
+      "score": 89.9,
+      "tiedCount": 23,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 611,
+      "name": "许珩",
+      "score": 89.9,
+      "tiedCount": 23,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 612,
+      "name": "杨宇轩",
+      "score": 89.9,
+      "tiedCount": 23,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 613,
+      "name": "余淼",
+      "score": 89.9,
+      "tiedCount": 23,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 614,
+      "name": "语梦",
+      "score": 89.9,
+      "tiedCount": 23,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 615,
+      "name": "袁瑞茜",
+      "score": 89.9,
+      "tiedCount": 23,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 616,
+      "name": "张佳滢",
+      "score": 89.9,
+      "tiedCount": 23,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 617,
+      "name": "张馨涵",
+      "score": 89.9,
+      "tiedCount": 23,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 618,
+      "name": "仲昊霖",
+      "score": 89.9,
+      "tiedCount": 23,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 619,
+      "name": "周修逸",
+      "score": 89.9,
+      "tiedCount": 23,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 620,
+      "name": "周雨彤",
+      "score": 89.9,
+      "tiedCount": 23,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 621,
+      "name": "孙亦辰",
+      "score": 89.6,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 622,
+      "name": "王湘怡",
+      "score": 89.6,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 623,
+      "name": "郑艺晗",
+      "score": 89.6,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 624,
+      "name": "常书怡",
+      "score": 89.5,
+      "tiedCount": 9,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 625,
+      "name": "陈译湉",
+      "score": 89.5,
+      "tiedCount": 9,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 626,
+      "name": "陈有格",
+      "score": 89.5,
+      "tiedCount": 9,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 627,
+      "name": "崔思程",
+      "score": 89.5,
+      "tiedCount": 9,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 628,
+      "name": "刘晨名",
+      "score": 89.5,
+      "tiedCount": 9,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 629,
+      "name": "刘京滔",
+      "score": 89.5,
+      "tiedCount": 9,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 630,
+      "name": "谭宇轩",
+      "score": 89.5,
+      "tiedCount": 9,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 631,
+      "name": "魏果果",
+      "score": 89.5,
+      "tiedCount": 9,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 632,
+      "name": "张明赫",
+      "score": 89.5,
+      "tiedCount": 9,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 633,
+      "name": "蒋林轩",
+      "score": 89.2,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 634,
+      "name": "刘思杨",
+      "score": 88.8,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 635,
+      "name": "王沛熙",
+      "score": 88.7,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 636,
+      "name": "王宇恒",
+      "score": 88.7,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 637,
+      "name": "王梓馨",
+      "score": 88.4,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 638,
+      "name": "丁墨龙",
+      "score": 88.3,
+      "tiedCount": 8,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 639,
+      "name": "贾意宸",
+      "score": 88.3,
+      "tiedCount": 8,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 640,
+      "name": "李鑫媛",
+      "score": 88.3,
+      "tiedCount": 8,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 641,
+      "name": "米多",
+      "score": 88.3,
+      "tiedCount": 8,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 642,
+      "name": "皮圣旭",
+      "score": 88.3,
+      "tiedCount": 8,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 643,
+      "name": "汤采迪",
+      "score": 88.3,
+      "tiedCount": 8,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 644,
+      "name": "王弘毅",
+      "score": 88.3,
+      "tiedCount": 8,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 645,
+      "name": "詹思煦",
+      "score": 88.3,
+      "tiedCount": 8,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 646,
+      "name": "孙浚淅",
+      "score": 88.2,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 647,
+      "name": "艾洋帆",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 648,
+      "name": "车宸睿",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 649,
+      "name": "陈炎森",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 650,
+      "name": "晨晨",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 651,
+      "name": "崔世栋",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 652,
+      "name": "党慕天",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 653,
+      "name": "顾纾然",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 654,
+      "name": "郭梵嵘",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 655,
+      "name": "郭希玥",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 656,
+      "name": "胡遵一",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 657,
+      "name": "黄嘉妍",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 658,
+      "name": "黄靖洋",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 659,
+      "name": "江沛聪",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 660,
+      "name": "姜宇涵",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 661,
+      "name": "李昊城",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 662,
+      "name": "李昊洋",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 663,
+      "name": "李沐筠",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 664,
+      "name": "李沛轩",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 665,
+      "name": "琳林",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 666,
+      "name": "刘梦溪",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 667,
+      "name": "刘屹航",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 668,
+      "name": "刘正阳",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 669,
+      "name": "刘卓音",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 670,
+      "name": "吕建德",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 671,
+      "name": "罗佳怡",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 672,
+      "name": "牛溪语",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 673,
+      "name": "琪琪",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 674,
+      "name": "佘栎城",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 675,
+      "name": "司宸旭",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 676,
+      "name": "童玉成",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 677,
+      "name": "王启帆",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 678,
+      "name": "吴瑞楠",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 679,
+      "name": "吴政垣",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 680,
+      "name": "夏椿濠",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 681,
+      "name": "夏玥萱",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 682,
+      "name": "徐艺硕",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 683,
+      "name": "杨岚婷",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 684,
+      "name": "杨赟恒",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 685,
+      "name": "张赫",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 686,
+      "name": "张佳潼",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 687,
+      "name": "张佳昕",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 688,
+      "name": "章烓发",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 689,
+      "name": "赵清浅",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 690,
+      "name": "赵若淇",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 691,
+      "name": "赵一涵",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 692,
+      "name": "赵奕乔",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 693,
+      "name": "周周",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 694,
+      "name": "朱曦悦",
+      "score": 87.9,
+      "tiedCount": 48,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 695,
+      "name": "孙千岚",
+      "score": 87.5,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 696,
+      "name": "邓棋文",
+      "score": 87.4,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 697,
+      "name": "李伊琳",
+      "score": 87.1,
+      "tiedCount": 1,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 698,
+      "name": "邢益荣",
+      "score": 87,
+      "tiedCount": 2,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 699,
+      "name": "雷依泽",
+      "score": 87,
+      "tiedCount": 2,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 700,
+      "name": "李慕言",
+      "score": 86.7,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 701,
+      "name": "陶腾宇",
+      "score": 86.7,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 702,
+      "name": "花正则",
+      "score": 86.6,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 703,
+      "name": "讲一讲关于月",
+      "score": 86.6,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 704,
+      "name": "核吴器",
+      "score": 86.5,
+      "tiedCount": 1,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 705,
+      "name": "马子程",
+      "score": 86.4,
+      "tiedCount": 2,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 706,
+      "name": "徐子瑞",
+      "score": 86.4,
+      "tiedCount": 2,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 707,
+      "name": "曹诺伊",
+      "score": 86.2,
+      "tiedCount": 11,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 708,
+      "name": "陈宇玥",
+      "score": 86.2,
+      "tiedCount": 11,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 709,
+      "name": "冯子皓",
+      "score": 86.2,
+      "tiedCount": 11,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 710,
+      "name": "韩昱均",
+      "score": 86.2,
+      "tiedCount": 11,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 711,
+      "name": "贺羽",
+      "score": 86.2,
+      "tiedCount": 11,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 712,
+      "name": "李业尧",
+      "score": 86.2,
+      "tiedCount": 11,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 713,
+      "name": "梁丰羿",
+      "score": 86.2,
+      "tiedCount": 11,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 714,
+      "name": "唐一鸣",
+      "score": 86.2,
+      "tiedCount": 11,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 715,
+      "name": "潼潼",
+      "score": 86.2,
+      "tiedCount": 11,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 716,
+      "name": "魏榕佑",
+      "score": 86.2,
+      "tiedCount": 11,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 717,
+      "name": "吴若妤",
+      "score": 86.2,
+      "tiedCount": 11,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 718,
+      "name": "邓宇辰",
+      "score": 86.1,
+      "tiedCount": 1,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 719,
+      "name": "余凌漫",
+      "score": 85.7,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 720,
+      "name": "鲍诺臻星",
+      "score": 85.5,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 721,
+      "name": "曹宸希",
+      "score": 85.5,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 722,
+      "name": "陈宁悦",
+      "score": 85.5,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 723,
+      "name": "陈诗添",
+      "score": 85.5,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 724,
+      "name": "崔政耀",
+      "score": 85.5,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 725,
+      "name": "袋鼠",
+      "score": 85.5,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 726,
+      "name": "何黄则义",
+      "score": 85.5,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 727,
+      "name": "胡皓哲",
+      "score": 85.5,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 728,
+      "name": "黄泓竣",
+      "score": 85.5,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 729,
+      "name": "焦冠清",
+      "score": 85.5,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 730,
+      "name": "李昊阳",
+      "score": 85.5,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 731,
+      "name": "李华沐泽",
+      "score": 85.5,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 732,
+      "name": "李津晟",
+      "score": 85.5,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 733,
+      "name": "李若晨",
+      "score": 85.5,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 734,
+      "name": "刘鸿羽",
+      "score": 85.5,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 735,
+      "name": "芦依墨",
+      "score": 85.5,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 736,
+      "name": "聂嘉延",
+      "score": 85.5,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 737,
+      "name": "彭若萱",
+      "score": 85.5,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 738,
+      "name": "乔柄豪",
+      "score": 85.5,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 739,
+      "name": "曲付霖可",
+      "score": 85.5,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 740,
+      "name": "孙悦倪",
+      "score": 85.5,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 741,
+      "name": "仝小泺",
+      "score": 85.5,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 742,
+      "name": "涂秋阳",
+      "score": 85.5,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 743,
+      "name": "王昕妍",
+      "score": 85.5,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 744,
+      "name": "徐熙雅",
+      "score": 85.5,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 745,
+      "name": "杨舒然",
+      "score": 85.5,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 746,
+      "name": "杨萧鸣",
+      "score": 85.5,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 747,
+      "name": "易启骅",
+      "score": 85.5,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 748,
+      "name": "于天晴",
+      "score": 85.5,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 749,
+      "name": "张宸瑄",
+      "score": 85.5,
+      "tiedCount": 30,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 750,
+      "name": "大顺",
+      "score": 85.4,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 751,
+      "name": "宋伊柠",
+      "score": 85.2,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 752,
+      "name": "刘乾润",
+      "score": 85,
+      "tiedCount": 5,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 753,
+      "name": "沈思悦",
+      "score": 85,
+      "tiedCount": 5,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 754,
+      "name": "杨熙",
+      "score": 85,
+      "tiedCount": 5,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 755,
+      "name": "赵越越",
+      "score": 85,
+      "tiedCount": 5,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 756,
+      "name": "周琪棋",
+      "score": 85,
+      "tiedCount": 5,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 757,
+      "name": "肖文文",
+      "score": 84.9,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 758,
+      "name": "李元畅",
+      "score": 84.7,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 759,
+      "name": "臧徐泽",
+      "score": 84.6,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 760,
+      "name": "陈稼峻",
+      "score": 84.5,
+      "tiedCount": 6,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 761,
+      "name": "黄浚博",
+      "score": 84.5,
+      "tiedCount": 6,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 762,
+      "name": "唐梓铭",
+      "score": 84.5,
+      "tiedCount": 6,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 763,
+      "name": "王岚熹",
+      "score": 84.5,
+      "tiedCount": 6,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 764,
+      "name": "薛皓释",
+      "score": 84.5,
+      "tiedCount": 6,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 765,
+      "name": "张雅棋",
+      "score": 84.5,
+      "tiedCount": 6,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 766,
+      "name": "墨墨",
+      "score": 84.3,
+      "tiedCount": 2,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 767,
+      "name": "乐桢",
+      "score": 84.3,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 768,
+      "name": "田雨禾",
+      "score": 84.2,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 769,
+      "name": "李松壑",
+      "score": 83.9,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 770,
+      "name": "安可欣",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 771,
+      "name": "安亚澜",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 772,
+      "name": "毕昕桐",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 773,
+      "name": "蔡一一",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 774,
+      "name": "辰辰",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 775,
+      "name": "陈峻铭",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 776,
+      "name": "陈小宝",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 777,
+      "name": "陈语汐",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 778,
+      "name": "邓家文",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 779,
+      "name": "豆豆",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 780,
+      "name": "杜铭轩",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 781,
+      "name": "费翔",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 782,
+      "name": "冯均玥",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 783,
+      "name": "郭子瑜",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 784,
+      "name": "昊昊",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 785,
+      "name": "何钦卉",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 786,
+      "name": "毁宇",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 787,
+      "name": "嘉亦",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 788,
+      "name": "蒋林艾",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 789,
+      "name": "孔彦棋",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 790,
+      "name": "李涵刘恋",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 791,
+      "name": "李沅泽",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 792,
+      "name": "刘婧怡",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 793,
+      "name": "刘若琳",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 794,
+      "name": "刘书羽",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 795,
+      "name": "刘彦霏",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 796,
+      "name": "刘致远",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 797,
+      "name": "卢心菲",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 798,
+      "name": "吕宜泽",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 799,
+      "name": "罗以睿",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 800,
+      "name": "弭懿桐",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 801,
+      "name": "牟宇涵",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 802,
+      "name": "乔乔",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 803,
+      "name": "桑梦国",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 804,
+      "name": "师浩研",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 805,
+      "name": "苏源学",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 806,
+      "name": "唐伟卿",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 807,
+      "name": "唐梓煊",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 808,
+      "name": "王泊如",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 809,
+      "name": "王亭茜",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 810,
+      "name": "王宥棽",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 811,
+      "name": "王宇晨",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 812,
+      "name": "韦懿修",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 813,
+      "name": "文雅缘",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 814,
+      "name": "伍俊浩",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 815,
+      "name": "薛晰文",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 816,
+      "name": "杨博翔",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 817,
+      "name": "杨景皓",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 818,
+      "name": "杨思锦",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 819,
+      "name": "侑恩",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 820,
+      "name": "于佳蕙",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 821,
+      "name": "张航铭",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 822,
+      "name": "张皓轩",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 823,
+      "name": "张佑霖",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 824,
+      "name": "赵建安",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 825,
+      "name": "赵野棋",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 826,
+      "name": "周子慧",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 827,
+      "name": "朱有雯",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 828,
+      "name": "紫航",
+      "score": 83.8,
+      "tiedCount": 59,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 829,
+      "name": "张梓瑶",
+      "score": 83.6,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 830,
+      "name": "熊晨贝",
+      "score": 83.6,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 831,
+      "name": "陈浚峰",
+      "score": 83.5,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 832,
+      "name": "尉皓然",
+      "score": 83.4,
+      "tiedCount": 1,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 833,
+      "name": "赵林苒",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "本次主角"
+    },
+    {
+      "rank": 834,
+      "name": "赵奕森",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 835,
+      "name": "布丁",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 836,
+      "name": "曹御升",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 837,
+      "name": "陈思妍",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 838,
+      "name": "陈新泽",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 839,
+      "name": "陈妤歆",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 840,
+      "name": "陈昱岐",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 841,
+      "name": "大山",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 842,
+      "name": "代楚嫣",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 843,
+      "name": "甘潇楠",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 844,
+      "name": "戈来",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 845,
+      "name": "耿铭泽",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 846,
+      "name": "龚浈皓",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 847,
+      "name": "顾欣然",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 848,
+      "name": "晗晗",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 849,
+      "name": "韩金初",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 850,
+      "name": "韩思博",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 851,
+      "name": "郝心韵",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 852,
+      "name": "泓婧泓韵",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 853,
+      "name": "黄苡沫",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 854,
+      "name": "黄雨轩",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 855,
+      "name": "李思妍",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 856,
+      "name": "李欣桐",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 857,
+      "name": "李依璇",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 858,
+      "name": "李子麒",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 859,
+      "name": "刘雨琪",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 860,
+      "name": "刘跃霖",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 861,
+      "name": "卢稼泽",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 862,
+      "name": "卢世珂",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 863,
+      "name": "苗苗",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 864,
+      "name": "潘毅铭",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 865,
+      "name": "全俊伊",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 866,
+      "name": "阮诗淼",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 867,
+      "name": "沈天骐",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 868,
+      "name": "税钰童",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 869,
+      "name": "司雨珩",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 870,
+      "name": "万语晞",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 871,
+      "name": "王惜雅",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 872,
+      "name": "王一朵",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 873,
+      "name": "王泽钦",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 874,
+      "name": "王梓宁",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 875,
+      "name": "魏宗昊",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 876,
+      "name": "吴宜",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 877,
+      "name": "吴雨昊",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 878,
+      "name": "武沈奕帆",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 879,
+      "name": "夏夏",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 880,
+      "name": "小八",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 881,
+      "name": "薛子沐",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 882,
+      "name": "杨欣颖",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 883,
+      "name": "杨暄颖",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 884,
+      "name": "杨翌宸",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 885,
+      "name": "姚辰昕",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 886,
+      "name": "殷邦平",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 887,
+      "name": "尹桐桐",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 888,
+      "name": "尤瑞旸",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 889,
+      "name": "张博畅",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 890,
+      "name": "张宸语",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 891,
+      "name": "张晓芃",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 892,
+      "name": "张芯睿",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 893,
+      "name": "张洋",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 894,
+      "name": "张正浩",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 895,
+      "name": "赵薪淙",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 896,
+      "name": "赵祝辉",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 897,
+      "name": "朱陆远",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 898,
+      "name": "Felix",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 899,
+      "name": "安安",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 900,
+      "name": "郭轩冉",
+      "score": 83.3,
+      "tiedCount": 68,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 901,
+      "name": "宸宝",
+      "score": 82.9,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 902,
+      "name": "董诗朗",
+      "score": 82.9,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 903,
+      "name": "黄洪香",
+      "score": 82.9,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 904,
+      "name": "李政远",
+      "score": 82.9,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 905,
+      "name": "陈景元",
+      "score": 82.9,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 906,
+      "name": "陈诗雨",
+      "score": 82.9,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 907,
+      "name": "陈毅轩",
+      "score": 82.9,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 908,
+      "name": "陈梓妍",
+      "score": 82.9,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 909,
+      "name": "多多",
+      "score": 82.9,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 910,
+      "name": "刘雨嫣",
+      "score": 82.9,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 911,
+      "name": "吕奕恬",
+      "score": 82.9,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 912,
+      "name": "罗迪",
+      "score": 82.9,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 913,
+      "name": "罗星宸",
+      "score": 82.9,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 914,
+      "name": "祺峰",
+      "score": 82.9,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 915,
+      "name": "宋秉宸",
+      "score": 82.9,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 916,
+      "name": "魏亦凡",
+      "score": 82.9,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 917,
+      "name": "吴樱诺",
+      "score": 82.9,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 918,
+      "name": "小米",
+      "score": 82.9,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 919,
+      "name": "肖伊一",
+      "score": 82.9,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 920,
+      "name": "徐若嵩",
+      "score": 82.9,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 921,
+      "name": "余诗语",
+      "score": 82.9,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 922,
+      "name": "赵梓航",
+      "score": 82.9,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 923,
+      "name": "秦钧翊",
+      "score": 82.9,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 924,
+      "name": "尹墨轩",
+      "score": 82.7,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 925,
+      "name": "蔡欣桐",
+      "score": 82.5,
+      "tiedCount": 7,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 926,
+      "name": "曹翰生",
+      "score": 82.5,
+      "tiedCount": 7,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 927,
+      "name": "龙飞宇",
+      "score": 82.5,
+      "tiedCount": 7,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 928,
+      "name": "多多",
+      "score": 82.5,
+      "tiedCount": 7,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 929,
+      "name": "陆嘉文",
+      "score": 82.5,
+      "tiedCount": 7,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 930,
+      "name": "许逸宸",
+      "score": 82.5,
+      "tiedCount": 7,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 931,
+      "name": "张奕博",
+      "score": 82.5,
+      "tiedCount": 7,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 932,
+      "name": "丁允然",
+      "score": 82.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 933,
+      "name": "朵朵",
+      "score": 82.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 934,
+      "name": "韩沐孜",
+      "score": 82.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 935,
+      "name": "江庭毅",
+      "score": 82.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 936,
+      "name": "静静",
+      "score": 82.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 937,
+      "name": "黎子骁",
+      "score": 82.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 938,
+      "name": "刘诗茵",
+      "score": 82.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 939,
+      "name": "毛渃依",
+      "score": 82.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 940,
+      "name": "梅宇宸",
+      "score": 82.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 941,
+      "name": "王晗宇",
+      "score": 82.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 942,
+      "name": "奚哲凯",
+      "score": 82.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 943,
+      "name": "小米",
+      "score": 82.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 944,
+      "name": "怡辰",
+      "score": 82.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 945,
+      "name": "张熙悦",
+      "score": 82.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 946,
+      "name": "张昕诚",
+      "score": 82.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 947,
+      "name": "郑紫悦",
+      "score": 82.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 948,
+      "name": "周益贤",
+      "score": 82.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 949,
+      "name": "王子元",
+      "score": 82.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 950,
+      "name": "小树",
+      "score": 82.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 951,
+      "name": "陈柏言",
+      "score": 82.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 952,
+      "name": "陈姝妍",
+      "score": 82.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 953,
+      "name": "程一",
+      "score": 82.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 954,
+      "name": "林子珺",
+      "score": 82.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 955,
+      "name": "覃赵振宇",
+      "score": 82.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 956,
+      "name": "王琳曦",
+      "score": 82.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 957,
+      "name": "朱靖翕",
+      "score": 82.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 958,
+      "name": "李语涵",
+      "score": 82.1,
+      "tiedCount": 28,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 959,
+      "name": "陈佳宇",
+      "score": 82.1,
+      "tiedCount": 28,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 960,
+      "name": "孙楚昊",
+      "score": 82,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 961,
+      "name": "包瑞晨",
+      "score": 81.6,
+      "tiedCount": 31,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 962,
+      "name": "陈峻熙",
+      "score": 81.6,
+      "tiedCount": 31,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 963,
+      "name": "范依诺",
+      "score": 81.6,
+      "tiedCount": 31,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 964,
+      "name": "高瑜汐",
+      "score": 81.6,
+      "tiedCount": 31,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 965,
+      "name": "蒋晨哲",
+      "score": 81.6,
+      "tiedCount": 31,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 966,
+      "name": "蒋郑弘",
+      "score": 81.6,
+      "tiedCount": 31,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 967,
+      "name": "孔致东",
+      "score": 81.6,
+      "tiedCount": 31,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 968,
+      "name": "来来",
+      "score": 81.6,
+      "tiedCount": 31,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 969,
+      "name": "冷乾正",
+      "score": 81.6,
+      "tiedCount": 31,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 970,
+      "name": "李东轩",
+      "score": 81.6,
+      "tiedCount": 31,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 971,
+      "name": "李佳恩",
+      "score": 81.6,
+      "tiedCount": 31,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 972,
+      "name": "李沐芸",
+      "score": 81.6,
+      "tiedCount": 31,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 973,
+      "name": "龙绎轩",
+      "score": 81.6,
+      "tiedCount": 31,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 974,
+      "name": "裴聆羽",
+      "score": 81.6,
+      "tiedCount": 31,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 975,
+      "name": "全培文",
+      "score": 81.6,
+      "tiedCount": 31,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 976,
+      "name": "宋明泽",
+      "score": 81.6,
+      "tiedCount": 31,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 977,
+      "name": "孙静妤",
+      "score": 81.6,
+      "tiedCount": 31,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 978,
+      "name": "孙杨清柠",
+      "score": 81.6,
+      "tiedCount": 31,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 979,
+      "name": "陶筱诺",
+      "score": 81.6,
+      "tiedCount": 31,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 980,
+      "name": "王浩宇",
+      "score": 81.6,
+      "tiedCount": 31,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 981,
+      "name": "夏默",
+      "score": 81.6,
+      "tiedCount": 31,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 982,
+      "name": "肖一诺",
+      "score": 81.6,
+      "tiedCount": 31,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 983,
+      "name": "薛天妍",
+      "score": 81.6,
+      "tiedCount": 31,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 984,
+      "name": "姚森钧",
+      "score": 81.6,
+      "tiedCount": 31,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 985,
+      "name": "于子叶",
+      "score": 81.6,
+      "tiedCount": 31,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 986,
+      "name": "张浩嘉",
+      "score": 81.6,
+      "tiedCount": 31,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 987,
+      "name": "张天佑",
+      "score": 81.6,
+      "tiedCount": 31,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 988,
+      "name": "张潇予",
+      "score": 81.6,
+      "tiedCount": 31,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 989,
+      "name": "张筱忱",
+      "score": 81.6,
+      "tiedCount": 31,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 990,
+      "name": "周末",
+      "score": 81.6,
+      "tiedCount": 31,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 991,
+      "name": "梓淇",
+      "score": 81.6,
+      "tiedCount": 31,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 992,
+      "name": "杨博皓",
+      "score": 81.4,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 993,
+      "name": "高慕媛",
+      "score": 81.3,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 994,
+      "name": "曹伊文",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 995,
+      "name": "曾凡佩",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 996,
+      "name": "陈柏烨",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 997,
+      "name": "陈昊",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 998,
+      "name": "陈念初",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 999,
+      "name": "程之恒",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1000,
+      "name": "杜烨禾",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1001,
+      "name": "方笑语",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1002,
+      "name": "付钰墨轩",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1003,
+      "name": "高臣烨",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1004,
+      "name": "高子雅",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1005,
+      "name": "郭沐睿",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1006,
+      "name": "洪彧杉",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1007,
+      "name": "侯依宸",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1008,
+      "name": "胡令耀",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1009,
+      "name": "黄子昕",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1010,
+      "name": "贾梓恒",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1011,
+      "name": "姜梦莹",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1012,
+      "name": "蒋贤诚",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1013,
+      "name": "金晨",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1014,
+      "name": "景诗雅",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1015,
+      "name": "康睿诗",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1016,
+      "name": "李俊毅",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1017,
+      "name": "李雨涵",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1018,
+      "name": "李梓涵",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1019,
+      "name": "刘梦星",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1020,
+      "name": "刘子溪",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1021,
+      "name": "柳成霖",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1022,
+      "name": "柳钧耀",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1023,
+      "name": "马沐宸",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1024,
+      "name": "诺诺",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1025,
+      "name": "潘秋钰",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1026,
+      "name": "彭子硕",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1027,
+      "name": "任宸岳",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1028,
+      "name": "石翔宇",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1029,
+      "name": "宋广明",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1030,
+      "name": "宋卓峰",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1031,
+      "name": "孙圣博",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1032,
+      "name": "汤子佳",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1033,
+      "name": "王子木",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1034,
+      "name": "向辰逸",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1035,
+      "name": "谢子禾",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1036,
+      "name": "徐沣",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1037,
+      "name": "徐孝毅",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1038,
+      "name": "姚芷萱",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1039,
+      "name": "殷乐乐",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1040,
+      "name": "余子彤",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1041,
+      "name": "张小飞",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1042,
+      "name": "张娅婷",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1043,
+      "name": "张依凡",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1044,
+      "name": "张裕泽",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1045,
+      "name": "赵悉宇",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1046,
+      "name": "祯祺",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1047,
+      "name": "郑律文",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1048,
+      "name": "朱思羽",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1049,
+      "name": "宗童童",
+      "score": 81.2,
+      "tiedCount": 56,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1050,
+      "name": "李宏瑞",
+      "score": 81.1,
+      "tiedCount": 2,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 1051,
+      "name": "刘浠熹",
+      "score": 81.1,
+      "tiedCount": 2,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 1052,
+      "name": "高瑞成",
+      "score": 80.8,
+      "tiedCount": 24,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1053,
+      "name": "黄瑞泽",
+      "score": 80.8,
+      "tiedCount": 24,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1054,
+      "name": "琪琪",
+      "score": 80.8,
+      "tiedCount": 24,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1055,
+      "name": "陈德轩",
+      "score": 80.8,
+      "tiedCount": 24,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1056,
+      "name": "邓沐晨",
+      "score": 80.8,
+      "tiedCount": 24,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1057,
+      "name": "何江颖",
+      "score": 80.8,
+      "tiedCount": 24,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1058,
+      "name": "李琳淼",
+      "score": 80.8,
+      "tiedCount": 24,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1059,
+      "name": "李明睿",
+      "score": 80.8,
+      "tiedCount": 24,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1060,
+      "name": "李玥萱",
+      "score": 80.8,
+      "tiedCount": 24,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1061,
+      "name": "骆睿雪",
+      "score": 80.8,
+      "tiedCount": 24,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1062,
+      "name": "马小诺",
+      "score": 80.8,
+      "tiedCount": 24,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1063,
+      "name": "庞雅诗",
+      "score": 80.8,
+      "tiedCount": 24,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1064,
+      "name": "宋豆豆",
+      "score": 80.8,
+      "tiedCount": 24,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1065,
+      "name": "伍荣峻",
+      "score": 80.8,
+      "tiedCount": 24,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1066,
+      "name": "徐晨溪",
+      "score": 80.8,
+      "tiedCount": 24,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1067,
+      "name": "萱宁",
+      "score": 80.8,
+      "tiedCount": 24,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1068,
+      "name": "杨承毅",
+      "score": 80.8,
+      "tiedCount": 24,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1069,
+      "name": "俞昊麒",
+      "score": 80.8,
+      "tiedCount": 24,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1070,
+      "name": "张灵甫",
+      "score": 80.8,
+      "tiedCount": 24,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1071,
+      "name": "张轩瑜",
+      "score": 80.8,
+      "tiedCount": 24,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1072,
+      "name": "张雨嫣",
+      "score": 80.8,
+      "tiedCount": 24,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1073,
+      "name": "赵梓涵",
+      "score": 80.8,
+      "tiedCount": 24,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1074,
+      "name": "赵梓萌",
+      "score": 80.8,
+      "tiedCount": 24,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1075,
+      "name": "王梓旭",
+      "score": 80.8,
+      "tiedCount": 24,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1076,
+      "name": "郭一帆",
+      "score": 80.5,
+      "tiedCount": 4,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1077,
+      "name": "侯景皓",
+      "score": 80.5,
+      "tiedCount": 4,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1078,
+      "name": "孙丹妮",
+      "score": 80.5,
+      "tiedCount": 4,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1079,
+      "name": "王诗语",
+      "score": 80.5,
+      "tiedCount": 4,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1080,
+      "name": "雷甄盛",
+      "score": 80.4,
+      "tiedCount": 13,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1081,
+      "name": "杨楷文",
+      "score": 80.4,
+      "tiedCount": 13,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1082,
+      "name": "张凌云",
+      "score": 80.4,
+      "tiedCount": 13,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1083,
+      "name": "郝灵枫",
+      "score": 80.4,
+      "tiedCount": 13,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1084,
+      "name": "蒋欣雨",
+      "score": 80.4,
+      "tiedCount": 13,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1085,
+      "name": "李东宸",
+      "score": 80.4,
+      "tiedCount": 13,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1086,
+      "name": "彭思畅",
+      "score": 80.4,
+      "tiedCount": 13,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1087,
+      "name": "帅昱琪",
+      "score": 80.4,
+      "tiedCount": 13,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1088,
+      "name": "堂堂",
+      "score": 80.4,
+      "tiedCount": 13,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1089,
+      "name": "王京堃",
+      "score": 80.4,
+      "tiedCount": 13,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1090,
+      "name": "元宝",
+      "score": 80.4,
+      "tiedCount": 13,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1091,
+      "name": "周宸熠",
+      "score": 80.4,
+      "tiedCount": 13,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1092,
+      "name": "邹枘汐",
+      "score": 80.4,
+      "tiedCount": 13,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1093,
+      "name": "赵润熙",
+      "score": 80.3,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1094,
+      "name": "张梓恒",
+      "score": 80.2,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1095,
+      "name": "冯琬乔",
+      "score": 80,
+      "tiedCount": 11,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1096,
+      "name": "贾正桓",
+      "score": 80,
+      "tiedCount": 11,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1097,
+      "name": "刘诗涵",
+      "score": 80,
+      "tiedCount": 11,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1098,
+      "name": "王可馨",
+      "score": 80,
+      "tiedCount": 11,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1099,
+      "name": "卫骏喆",
+      "score": 80,
+      "tiedCount": 11,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1100,
+      "name": "徐梓馨",
+      "score": 80,
+      "tiedCount": 11,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1101,
+      "name": "陈毅曈",
+      "score": 80,
+      "tiedCount": 11,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1102,
+      "name": "文昭清",
+      "score": 80,
+      "tiedCount": 11,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1103,
+      "name": "孙晨壹",
+      "score": 80,
+      "tiedCount": 11,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1104,
+      "name": "韦皓瀚",
+      "score": 80,
+      "tiedCount": 11,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1105,
+      "name": "徐晨皓",
+      "score": 80,
+      "tiedCount": 11,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1106,
+      "name": "陈忆铭",
+      "score": 79.6,
+      "tiedCount": 37,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1107,
+      "name": "陈则祎",
+      "score": 79.6,
+      "tiedCount": 37,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1108,
+      "name": "耿思为",
+      "score": 79.6,
+      "tiedCount": 37,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1109,
+      "name": "韩嘉言",
+      "score": 79.6,
+      "tiedCount": 37,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1110,
+      "name": "黄思诺",
+      "score": 79.6,
+      "tiedCount": 37,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1111,
+      "name": "蒋婧雅",
+      "score": 79.6,
+      "tiedCount": 37,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1112,
+      "name": "李天予",
+      "score": 79.6,
+      "tiedCount": 37,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1113,
+      "name": "梁玥蓉",
+      "score": 79.6,
+      "tiedCount": 37,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1114,
+      "name": "林子涵",
+      "score": 79.6,
+      "tiedCount": 37,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1115,
+      "name": "刘汶昊",
+      "score": 79.6,
+      "tiedCount": 37,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1116,
+      "name": "刘欣诺",
+      "score": 79.6,
+      "tiedCount": 37,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1117,
+      "name": "刘语诺",
+      "score": 79.6,
+      "tiedCount": 37,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1118,
+      "name": "卢潭玥",
+      "score": 79.6,
+      "tiedCount": 37,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1119,
+      "name": "满意",
+      "score": 79.6,
+      "tiedCount": 37,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1120,
+      "name": "欧阳秀好",
+      "score": 79.6,
+      "tiedCount": 37,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1121,
+      "name": "苏梓铭",
+      "score": 79.6,
+      "tiedCount": 37,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1122,
+      "name": "谢承池",
+      "score": 79.6,
+      "tiedCount": 37,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1123,
+      "name": "徐小爱",
+      "score": 79.6,
+      "tiedCount": 37,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1124,
+      "name": "许城滔",
+      "score": 79.6,
+      "tiedCount": 37,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1125,
+      "name": "许涵瑜",
+      "score": 79.6,
+      "tiedCount": 37,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1126,
+      "name": "许思畅",
+      "score": 79.6,
+      "tiedCount": 37,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1127,
+      "name": "姚星懿",
+      "score": 79.6,
+      "tiedCount": 37,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1128,
+      "name": "怡然",
+      "score": 79.6,
+      "tiedCount": 37,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1129,
+      "name": "尹梓琳",
+      "score": 79.6,
+      "tiedCount": 37,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1130,
+      "name": "于佳乐",
+      "score": 79.6,
+      "tiedCount": 37,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1131,
+      "name": "张家硕",
+      "score": 79.6,
+      "tiedCount": 37,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1132,
+      "name": "张婉瑜",
+      "score": 79.6,
+      "tiedCount": 37,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1133,
+      "name": "张宗源",
+      "score": 79.6,
+      "tiedCount": 37,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1134,
+      "name": "赵乾旭",
+      "score": 79.6,
+      "tiedCount": 37,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1135,
+      "name": "祝艺嫣",
+      "score": 79.6,
+      "tiedCount": 37,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1136,
+      "name": "邹铠霖",
+      "score": 79.6,
+      "tiedCount": 37,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1137,
+      "name": "邹熙成",
+      "score": 79.6,
+      "tiedCount": 37,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1138,
+      "name": "Nino",
+      "score": 79.6,
+      "tiedCount": 37,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1139,
+      "name": "陈昊兴",
+      "score": 79.6,
+      "tiedCount": 37,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1140,
+      "name": "范振翔",
+      "score": 79.6,
+      "tiedCount": 37,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1141,
+      "name": "潘承楷",
+      "score": 79.6,
+      "tiedCount": 37,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1142,
+      "name": "宿思羽",
+      "score": 79.6,
+      "tiedCount": 37,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1143,
+      "name": "李云",
+      "score": 79.5,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1144,
+      "name": "张一鸣",
+      "score": 79.5,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1145,
+      "name": "孙翊航",
+      "score": 79.4,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1146,
+      "name": "戴祎泽",
+      "score": 79.2,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1147,
+      "name": "樊谟宁",
+      "score": 79.2,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1148,
+      "name": "何锦垠",
+      "score": 79.2,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1149,
+      "name": "胡梓琛",
+      "score": 79.2,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1150,
+      "name": "贾子煦",
+      "score": 79.2,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1151,
+      "name": "金豆豆",
+      "score": 79.2,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1152,
+      "name": "李佳茵",
+      "score": 79.2,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1153,
+      "name": "李瑞阳",
+      "score": 79.2,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1154,
+      "name": "李奕卓",
+      "score": 79.2,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1155,
+      "name": "刘雨桐",
+      "score": 79.2,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1156,
+      "name": "米豆",
+      "score": 79.2,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1157,
+      "name": "裴孟彧",
+      "score": 79.2,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1158,
+      "name": "戚琸雅",
+      "score": 79.2,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1159,
+      "name": "申诗筠",
+      "score": 79.2,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1160,
+      "name": "声钰声钦",
+      "score": 79.2,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1161,
+      "name": "时文卓",
+      "score": 79.2,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1162,
+      "name": "舒常可",
+      "score": 79.2,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1163,
+      "name": "韦思臣",
+      "score": 79.2,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1164,
+      "name": "吴昱南",
+      "score": 79.2,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1165,
+      "name": "又又",
+      "score": 79.2,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1166,
+      "name": "于小荷",
+      "score": 79.2,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1167,
+      "name": "张亦丞",
+      "score": 79.2,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1168,
+      "name": "张耘轩",
+      "score": 79.2,
+      "tiedCount": 23,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1169,
+      "name": "孙筱雅",
+      "score": 79.1,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1170,
+      "name": "史晨峄",
+      "score": 79,
+      "tiedCount": 5,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1171,
+      "name": "陈棵",
+      "score": 79,
+      "tiedCount": 5,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1172,
+      "name": "郭治霆",
+      "score": 79,
+      "tiedCount": 5,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1173,
+      "name": "李宜修",
+      "score": 79,
+      "tiedCount": 5,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1174,
+      "name": "潘思宇",
+      "score": 79,
+      "tiedCount": 5,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1175,
+      "name": "福娃",
+      "score": 78.8,
+      "tiedCount": 9,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1176,
+      "name": "可儿",
+      "score": 78.8,
+      "tiedCount": 9,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1177,
+      "name": "李宸皓",
+      "score": 78.8,
+      "tiedCount": 9,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1178,
+      "name": "刘思晔",
+      "score": 78.8,
+      "tiedCount": 9,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1179,
+      "name": "祁艺硕",
+      "score": 78.8,
+      "tiedCount": 9,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1180,
+      "name": "任家泽",
+      "score": 78.8,
+      "tiedCount": 9,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1181,
+      "name": "宋明辉",
+      "score": 78.8,
+      "tiedCount": 9,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1182,
+      "name": "王丹巍",
+      "score": 78.8,
+      "tiedCount": 9,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1183,
+      "name": "徐睿桐",
+      "score": 78.8,
+      "tiedCount": 9,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1184,
+      "name": "张祥彧",
+      "score": 78.7,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1185,
+      "name": "马子驭",
+      "score": 78.6,
+      "tiedCount": 3,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1186,
+      "name": "程诺",
+      "score": 78.6,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1187,
+      "name": "汪晨涛",
+      "score": 78.6,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1188,
+      "name": "李慎琏",
+      "score": 78.5,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1189,
+      "name": "刘林濠",
+      "score": 78.5,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1190,
+      "name": "黄瑞欣",
+      "score": 78.4,
+      "tiedCount": 9,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1191,
+      "name": "姜贻畅",
+      "score": 78.4,
+      "tiedCount": 9,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1192,
+      "name": "李沐泽",
+      "score": 78.4,
+      "tiedCount": 9,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1193,
+      "name": "庞佳源",
+      "score": 78.4,
+      "tiedCount": 9,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1194,
+      "name": "沈永谦",
+      "score": 78.4,
+      "tiedCount": 9,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1195,
+      "name": "石图图",
+      "score": 78.4,
+      "tiedCount": 9,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1196,
+      "name": "王柚晴",
+      "score": 78.4,
+      "tiedCount": 9,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1197,
+      "name": "魏一诺",
+      "score": 78.4,
+      "tiedCount": 9,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1198,
+      "name": "姚增晟",
+      "score": 78.4,
+      "tiedCount": 9,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1199,
+      "name": "赵铎之",
+      "score": 78.3,
+      "tiedCount": 4,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1200,
+      "name": "蒋佩佩",
+      "score": 78.3,
+      "tiedCount": 4,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1201,
+      "name": "李诗蕾",
+      "score": 78.3,
+      "tiedCount": 4,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1202,
+      "name": "王皓然",
+      "score": 78.3,
+      "tiedCount": 4,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1203,
+      "name": "郎诗远",
+      "score": 78.2,
+      "tiedCount": 3,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1204,
+      "name": "王翊臣",
+      "score": 78.2,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1205,
+      "name": "杨凯迪",
+      "score": 78.2,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1206,
+      "name": "边冠铭",
+      "score": 78,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1207,
+      "name": "米粒",
+      "score": 78,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1208,
+      "name": "何嘉殷",
+      "score": 77.9,
+      "tiedCount": 8,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1209,
+      "name": "廖梓轩",
+      "score": 77.9,
+      "tiedCount": 8,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1210,
+      "name": "孙宿宸",
+      "score": 77.9,
+      "tiedCount": 8,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1211,
+      "name": "王越涵",
+      "score": 77.9,
+      "tiedCount": 8,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1212,
+      "name": "王紫丞",
+      "score": 77.9,
+      "tiedCount": 8,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1213,
+      "name": "徐可屹",
+      "score": 77.9,
+      "tiedCount": 8,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1214,
+      "name": "许琪晗",
+      "score": 77.9,
+      "tiedCount": 8,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1215,
+      "name": "张馨茖",
+      "score": 77.9,
+      "tiedCount": 8,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1216,
+      "name": "浦乖乖",
+      "score": 77.8,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1217,
+      "name": "欧阳梓泓",
+      "score": 77.8,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1218,
+      "name": "卷卷",
+      "score": 77.6,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1219,
+      "name": "曹益萌cym",
+      "score": 77.6,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1220,
+      "name": "乐乐",
+      "score": 77.5,
+      "tiedCount": 8,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1221,
+      "name": "李思远",
+      "score": 77.5,
+      "tiedCount": 8,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1222,
+      "name": "林宇",
+      "score": 77.5,
+      "tiedCount": 8,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1223,
+      "name": "刘梓慕",
+      "score": 77.5,
+      "tiedCount": 8,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1224,
+      "name": "马睿伊",
+      "score": 77.5,
+      "tiedCount": 8,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1225,
+      "name": "张晨逸",
+      "score": 77.5,
+      "tiedCount": 8,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1226,
+      "name": "张懿辰",
+      "score": 77.5,
+      "tiedCount": 8,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1227,
+      "name": "胡黄天淼",
+      "score": 77.5,
+      "tiedCount": 8,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1228,
+      "name": "崔洋硕",
+      "score": 77.4,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1229,
+      "name": "李雨宸",
+      "score": 77.4,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1230,
+      "name": "洪梓城",
+      "score": 77.2,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1231,
+      "name": "李沐宸",
+      "score": 77.2,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1232,
+      "name": "杨锦柯",
+      "score": 77.2,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1233,
+      "name": "方茗睿",
+      "score": 77.1,
+      "tiedCount": 7,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1234,
+      "name": "刘宇鑫",
+      "score": 77.1,
+      "tiedCount": 7,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1235,
+      "name": "瑞瑞",
+      "score": 77.1,
+      "tiedCount": 7,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1236,
+      "name": "诗雨",
+      "score": 77.1,
+      "tiedCount": 7,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1237,
+      "name": "肖铭涵",
+      "score": 77.1,
+      "tiedCount": 7,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1238,
+      "name": "钟昊略",
+      "score": 77.1,
+      "tiedCount": 7,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1239,
+      "name": "刘润凯",
+      "score": 77.1,
+      "tiedCount": 7,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1240,
+      "name": "林书震",
+      "score": 76.9,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1241,
+      "name": "高铭泽",
+      "score": 76.9,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1242,
+      "name": "柏霖",
+      "score": 76.7,
+      "tiedCount": 12,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1243,
+      "name": "宝宝",
+      "score": 76.7,
+      "tiedCount": 12,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1244,
+      "name": "曹雨桐",
+      "score": 76.7,
+      "tiedCount": 12,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1245,
+      "name": "杜梓田",
+      "score": 76.7,
+      "tiedCount": 12,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1246,
+      "name": "金锦睿",
+      "score": 76.7,
+      "tiedCount": 12,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1247,
+      "name": "李东泽",
+      "score": 76.7,
+      "tiedCount": 12,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1248,
+      "name": "李六益",
+      "score": 76.7,
+      "tiedCount": 12,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1249,
+      "name": "刘宸宇",
+      "score": 76.7,
+      "tiedCount": 12,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1250,
+      "name": "孟家禾",
+      "score": 76.7,
+      "tiedCount": 12,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1251,
+      "name": "王艺淞",
+      "score": 76.7,
+      "tiedCount": 12,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1252,
+      "name": "遗忘",
+      "score": 76.7,
+      "tiedCount": 12,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1253,
+      "name": "周奕航",
+      "score": 76.7,
+      "tiedCount": 12,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1254,
+      "name": "孙麒曜",
+      "score": 76.4,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1255,
+      "name": "费诣策",
+      "score": 76.3,
+      "tiedCount": 5,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1256,
+      "name": "何相君",
+      "score": 76.3,
+      "tiedCount": 5,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1257,
+      "name": "王梓鸣",
+      "score": 76.3,
+      "tiedCount": 5,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1258,
+      "name": "闫书涵",
+      "score": 76.3,
+      "tiedCount": 5,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1259,
+      "name": "杨胜淇",
+      "score": 76.3,
+      "tiedCount": 5,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1260,
+      "name": "杨梓涵",
+      "score": 76.2,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1261,
+      "name": "马君一",
+      "score": 76,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1262,
+      "name": "陶玥筠",
+      "score": 75.9,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1263,
+      "name": "刘明泽",
+      "score": 75.8,
+      "tiedCount": 4,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1264,
+      "name": "平淏元",
+      "score": 75.8,
+      "tiedCount": 4,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1265,
+      "name": "辛依琳",
+      "score": 75.8,
+      "tiedCount": 4,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1266,
+      "name": "王元一",
+      "score": 75.8,
+      "tiedCount": 4,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1267,
+      "name": "彭晨硕",
+      "score": 75.6,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1268,
+      "name": "李昱锦",
+      "score": 75.5,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1269,
+      "name": "慕梓安",
+      "score": 75.5,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1270,
+      "name": "邓子怡",
+      "score": 75.4,
+      "tiedCount": 4,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1271,
+      "name": "王梓淇",
+      "score": 75.4,
+      "tiedCount": 4,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1272,
+      "name": "小斐",
+      "score": 75.4,
+      "tiedCount": 4,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1273,
+      "name": "柚子露",
+      "score": 75.4,
+      "tiedCount": 4,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1274,
+      "name": "王晟翔",
+      "score": 75.3,
+      "tiedCount": 2,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1275,
+      "name": "刘佳昊",
+      "score": 75.3,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1276,
+      "name": "肖博文",
+      "score": 75.2,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1277,
+      "name": "赵弘毅",
+      "score": 75.2,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1278,
+      "name": "刘沐晗",
+      "score": 75.1,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1279,
+      "name": "琮宝",
+      "score": 75,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1280,
+      "name": "齐景天",
+      "score": 75,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1281,
+      "name": "张颂宜",
+      "score": 75,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1282,
+      "name": "王若迪",
+      "score": 74.8,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1283,
+      "name": "徐芷佩",
+      "score": 74.8,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1284,
+      "name": "李思烨",
+      "score": 74.7,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1285,
+      "name": "叶芳宁",
+      "score": 74.7,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1286,
+      "name": "赵晨妤",
+      "score": 74.6,
+      "tiedCount": 6,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1287,
+      "name": "常育滕",
+      "score": 74.6,
+      "tiedCount": 6,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1288,
+      "name": "罗晨依",
+      "score": 74.6,
+      "tiedCount": 6,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1289,
+      "name": "杨项尊",
+      "score": 74.6,
+      "tiedCount": 6,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1290,
+      "name": "钟皓羽",
+      "score": 74.6,
+      "tiedCount": 6,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1291,
+      "name": "王略略",
+      "score": 74.6,
+      "tiedCount": 6,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1292,
+      "name": "王妍诺",
+      "score": 74.3,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1293,
+      "name": "王昱翔",
+      "score": 74.3,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1294,
+      "name": "刘婧琪",
+      "score": 74.1,
+      "tiedCount": 6,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1295,
+      "name": "韩皓宇",
+      "score": 74.1,
+      "tiedCount": 6,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1296,
+      "name": "郝懿",
+      "score": 74.1,
+      "tiedCount": 6,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1297,
+      "name": "吴习良",
+      "score": 74.1,
+      "tiedCount": 6,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1298,
+      "name": "尹一楷",
+      "score": 74.1,
+      "tiedCount": 6,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1299,
+      "name": "张效嘉",
+      "score": 74.1,
+      "tiedCount": 6,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1300,
+      "name": "夏树",
+      "score": 74,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1301,
+      "name": "梁栩楷",
+      "score": 73.8,
+      "tiedCount": 2,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1302,
+      "name": "姚宇",
+      "score": 73.8,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1303,
+      "name": "郑妤馨",
+      "score": 73.7,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1304,
+      "name": "安宸岩",
+      "score": 73.7,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1305,
+      "name": "李东阳",
+      "score": 73.6,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1306,
+      "name": "龚佳曦",
+      "score": 73.6,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1307,
+      "name": "李子析",
+      "score": 73.6,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1308,
+      "name": "谭程宇",
+      "score": 73.4,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1309,
+      "name": "张棨戎",
+      "score": 73.4,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1310,
+      "name": "张景娴",
+      "score": 73.4,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1311,
+      "name": "张轩诚",
+      "score": 73.3,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1312,
+      "name": "一帆",
+      "score": 73.2,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1313,
+      "name": "李梓豪",
+      "score": 73.1,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1314,
+      "name": "王晨熙",
+      "score": 73,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1315,
+      "name": "李昀择",
+      "score": 73,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1316,
+      "name": "彭嘉琪",
+      "score": 73,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1317,
+      "name": "李诗辰",
+      "score": 72.9,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1318,
+      "name": "音音",
+      "score": 72.8,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1319,
+      "name": "王彦棠",
+      "score": 72.6,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1320,
+      "name": "焦歆桐",
+      "score": 72.5,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1321,
+      "name": "张家诚",
+      "score": 72.5,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1322,
+      "name": "元宝",
+      "score": 72.5,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1323,
+      "name": "侯泽奕",
+      "score": 72.4,
+      "tiedCount": 2,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1324,
+      "name": "刘天韵",
+      "score": 72.4,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1325,
+      "name": "张若荌",
+      "score": 72.3,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1326,
+      "name": "杨昕奕",
+      "score": 72.2,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1327,
+      "name": "赵唐佳",
+      "score": 72.2,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1328,
+      "name": "刘伊杨",
+      "score": 72.2,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1329,
+      "name": "刘博洵",
+      "score": 72.1,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1330,
+      "name": "刘雨桐",
+      "score": 72.1,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1331,
+      "name": "周天成",
+      "score": 72.1,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1332,
+      "name": "胡熙尧",
+      "score": 72,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1333,
+      "name": "布丁",
+      "score": 71.7,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1334,
+      "name": "李沐阳",
+      "score": 71.7,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1335,
+      "name": "何明轩",
+      "score": 71.7,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1336,
+      "name": "郑小萌",
+      "score": 71.6,
+      "tiedCount": 2,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1337,
+      "name": "张米乐",
+      "score": 71.6,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1338,
+      "name": "季书涵",
+      "score": 71.5,
+      "tiedCount": 4,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1339,
+      "name": "楼嘉楠",
+      "score": 71.5,
+      "tiedCount": 4,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1340,
+      "name": "吴奕薪",
+      "score": 71.5,
+      "tiedCount": 4,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1341,
+      "name": "杨天昊",
+      "score": 71.5,
+      "tiedCount": 4,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1342,
+      "name": "龚翊天",
+      "score": 71.2,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1343,
+      "name": "梁智珅",
+      "score": 71.1,
+      "tiedCount": 4,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1344,
+      "name": "刘岩坤",
+      "score": 71.1,
+      "tiedCount": 4,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1345,
+      "name": "糖果",
+      "score": 71.1,
+      "tiedCount": 4,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1346,
+      "name": "丁玮柏",
+      "score": 71.1,
+      "tiedCount": 4,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1347,
+      "name": "王韵萱",
+      "score": 71,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1348,
+      "name": "林怡博",
+      "score": 70.9,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1349,
+      "name": "宋泽熹",
+      "score": 70.8,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1350,
+      "name": "王柯涵",
+      "score": 70.7,
+      "tiedCount": 2,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1351,
+      "name": "李卓轩",
+      "score": 70.7,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1352,
+      "name": "杨奕凝",
+      "score": 70.4,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1353,
+      "name": "王淼桐",
+      "score": 70.4,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1354,
+      "name": "陈麓清",
+      "score": 70.1,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1355,
+      "name": "刘立格",
+      "score": 69.8,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1356,
+      "name": "杨庆安",
+      "score": 69.8,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1357,
+      "name": "周易杨",
+      "score": 69.7,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1358,
+      "name": "黄姝秦",
+      "score": 69.6,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1359,
+      "name": "潘糖",
+      "score": 69.3,
+      "tiedCount": 2,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1360,
+      "name": "毛思伊",
+      "score": 69.3,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1361,
+      "name": "陈雯嘉",
+      "score": 69.2,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1362,
+      "name": "小国庆",
+      "score": 68.9,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1363,
+      "name": "邓翕予",
+      "score": 68.8,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1364,
+      "name": "戴诗霖",
+      "score": 68.5,
+      "tiedCount": 2,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1365,
+      "name": "星宇星愿",
+      "score": 68.5,
+      "tiedCount": 2,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1366,
+      "name": "沈佳佳",
+      "score": 68.1,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1367,
+      "name": "朱宸轩",
+      "score": 68,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1368,
+      "name": "李蔓蓁",
+      "score": 68,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1369,
+      "name": "朱浩阳",
+      "score": 67.8,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1370,
+      "name": "魏霖枫",
+      "score": 67.7,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1371,
+      "name": "杨佳禾",
+      "score": 67.7,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1372,
+      "name": "季子潇",
+      "score": 67.3,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1373,
+      "name": "刘启丞",
+      "score": 67.3,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1374,
+      "name": "王羽涵",
+      "score": 67.2,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1375,
+      "name": "王毅",
+      "score": 66.8,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1376,
+      "name": "昕昕",
+      "score": 66.8,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1377,
+      "name": "莫博",
+      "score": 66.4,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1378,
+      "name": "罗榆淇",
+      "score": 66.3,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1379,
+      "name": "王誉诺",
+      "score": 66.2,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1380,
+      "name": "孔令慧",
+      "score": 65.9,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1381,
+      "name": "张皓轩",
+      "score": 65.9,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1382,
+      "name": "宋姝含",
+      "score": 64.6,
+      "tiedCount": 3,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1383,
+      "name": "聂佳雯",
+      "score": 64.6,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1384,
+      "name": "凯文",
+      "score": 64.6,
+      "tiedCount": 3,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1385,
+      "name": "施睿天",
+      "score": 63.6,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1386,
+      "name": "韩承宣",
+      "score": 63.1,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1387,
+      "name": "张誉严",
+      "score": 62.5,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1388,
+      "name": "李暄妍",
+      "score": 62.1,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1389,
+      "name": "马庆洋",
+      "score": 60.9,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1390,
+      "name": "杨紫熙",
+      "score": 60.4,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1391,
+      "name": "武靖泽",
+      "score": 60.3,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1392,
+      "name": "陆萱遥",
+      "score": 59.3,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1393,
+      "name": "姜修齐",
+      "score": 58.3,
+      "tiedCount": 2,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1394,
+      "name": "陈俞涵",
+      "score": 58.3,
+      "tiedCount": 2,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1395,
+      "name": "佘楚卿",
+      "score": 58,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1396,
+      "name": "张允正",
+      "score": 57.8,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1397,
+      "name": "杨越迪",
+      "score": 57.2,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1398,
+      "name": "王若溪",
+      "score": 56.8,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1399,
+      "name": "徐子越",
+      "score": 56.7,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1400,
+      "name": "袁浩文",
+      "score": 56.2,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1401,
+      "name": "李晨歌",
+      "score": 55.7,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1402,
+      "name": "郑好",
+      "score": 55.5,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1403,
+      "name": "牛牛",
+      "score": 53.4,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1404,
+      "name": "薛雯月",
+      "score": 53.2,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1405,
+      "name": "王修锫",
+      "score": 52.8,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1406,
+      "name": "王嘉梁",
+      "score": 49.8,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1407,
+      "name": "邓安然",
+      "score": 49.2,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1408,
+      "name": "邵槿言",
+      "score": 47.6,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1409,
+      "name": "宛欣",
+      "score": 46,
+      "tiedCount": 1,
+      "tag": "作业稳扎稳打"
+    },
+    {
+      "rank": 1410,
+      "name": "许柏鸣",
+      "score": 43.5,
+      "tiedCount": 2,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1411,
+      "name": "应沁熹",
+      "score": 43.5,
+      "tiedCount": 2,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1412,
+      "name": "甜宝",
+      "score": 39.6,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1413,
+      "name": "蒋诗颖",
+      "score": 39.2,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1414,
+      "name": "晁佳禾",
+      "score": 38.9,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1415,
+      "name": "邓涵文",
+      "score": 38,
+      "tiedCount": 2,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1416,
+      "name": "邓宇辰",
+      "score": 38,
+      "tiedCount": 2,
+      "tag": "正确率优秀"
+    },
+    {
+      "rank": 1417,
+      "name": "李垠儒",
+      "score": 37.6,
+      "tiedCount": 2,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1418,
+      "name": "张纬仪",
+      "score": 37.6,
+      "tiedCount": 2,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1419,
+      "name": "琪琪",
+      "score": 37.2,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1420,
+      "name": "尹选超",
+      "score": 36.6,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1421,
+      "name": "家锐",
+      "score": 35.6,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1422,
+      "name": "杨储宁",
+      "score": 34.7,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1423,
+      "name": "诺诺",
+      "score": 33,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1424,
+      "name": "张岚曦",
+      "score": 31.4,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1425,
+      "name": "何雨沁",
+      "score": 31.2,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1426,
+      "name": "徐悦悦",
+      "score": 30.1,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1427,
+      "name": "李恬馨",
+      "score": 29.1,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1428,
+      "name": "刘莫凡",
+      "score": 28.8,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1429,
+      "name": "王梓竣",
+      "score": 26.4,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1430,
+      "name": "黄焱旸",
+      "score": 23,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1431,
+      "name": "唐羽云",
+      "score": 22.6,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1432,
+      "name": "耿钰轩",
+      "score": 22.2,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1433,
+      "name": "杨萧阳",
+      "score": 21.6,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1434,
+      "name": "李诗煌",
+      "score": 21.3,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1435,
+      "name": "张檬",
+      "score": 20.4,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1436,
+      "name": "孙祖一",
+      "score": 19.1,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    },
+    {
+      "rank": 1437,
+      "name": "白昀禾",
+      "score": 16.1,
+      "tiedCount": 1,
+      "tag": "持续努力"
+    }
+  ]
+}
