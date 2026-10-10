@@ -18,7 +18,7 @@
     "classTiedCount": 338,
     "groupTiedCount": 1,
     "relativeUrl": "./course-20260927-2026070616060318588281/h5-growth-rank/",
-    "generatedAt": 1791612502977.8042
+    "generatedAt": 1791612503000
   },
   {
     "slug": "course-20260913-2026070616060318158276",
@@ -39,49 +39,238 @@
     "classTiedCount": 2179,
     "groupTiedCount": 1,
     "relativeUrl": "./course-20260913-2026070616060318158276/h5-growth-rank/",
-    "generatedAt": 1791612431799.18
+    "generatedAt": 1791612503000
+  },
+  {
+    "slug": "course-20260819-2026050910210339334550",
+    "title": "第12讲-不完全归纳法解规律问题",
+    "childName": "赵林苒",
+    "courseDateLabel": "8月19日",
+    "courseTime": "8月19日 10:30-13:17",
+    "teacher": "林林老师",
+    "className": "赵林苒真实小组",
+    "heroMessage": "每一次认真完成，都是成长的闪光时刻",
+    "growthRank": 1032,
+    "totalCount": 1794,
+    "groupRank": 9,
+    "groupTotal": 24,
+    "growthScore": 100,
+    "mainScore": 93,
+    "bonusScore": 7,
+    "classTiedCount": 114,
+    "groupTiedCount": 1,
+    "relativeUrl": "./course-20260819-2026050910210339334550/h5-growth-rank/",
+    "generatedAt": 1791613437139.4758
+  },
+  {
+    "slug": "course-20260818-2026050910210339171548",
+    "title": "第11讲-有序无序解计数问题",
+    "childName": "赵林苒",
+    "courseDateLabel": "8月18日",
+    "courseTime": "8月18日 10:30-13:00",
+    "teacher": "林林老师",
+    "className": "赵林苒真实小组",
+    "heroMessage": "每一次认真完成，都是成长的闪光时刻",
+    "growthRank": 1305,
+    "totalCount": 1804,
+    "groupRank": 15,
+    "groupTotal": 24,
+    "growthScore": 95,
+    "mainScore": 90,
+    "bonusScore": 5,
+    "classTiedCount": 197,
+    "groupTiedCount": 3,
+    "relativeUrl": "./course-20260818-2026050910210339171548/h5-growth-rank/",
+    "generatedAt": 1791613379949.5386
+  },
+  {
+    "slug": "course-20260817-2026050910210339728355",
+    "title": "第10讲-乘法意义解计数问题",
+    "childName": "赵林苒",
+    "courseDateLabel": "8月17日",
+    "courseTime": "8月17日 10:30-13:00",
+    "teacher": "林林老师",
+    "className": "赵林苒真实小组",
+    "heroMessage": "每一次认真完成，都是成长的闪光时刻",
+    "growthRank": 1,
+    "totalCount": 1792,
+    "groupRank": 1,
+    "groupTotal": 23,
+    "growthScore": 105,
+    "mainScore": 100,
+    "bonusScore": 5,
+    "classTiedCount": 1034,
+    "groupTiedCount": 13,
+    "relativeUrl": "./course-20260817-2026050910210339728355/h5-growth-rank/",
+    "generatedAt": 1791613325170.1682
+  },
+  {
+    "slug": "course-20260814-2026050910210339496812",
+    "title": "第8讲-线",
+    "childName": "赵林苒",
+    "courseDateLabel": "8月14日",
+    "courseTime": "8月14日 10:30-13:00",
+    "teacher": "林林老师",
+    "className": "赵林苒真实小组",
+    "heroMessage": "每一次认真完成，都是成长的闪光时刻",
+    "growthRank": 873,
+    "totalCount": 1781,
+    "groupRank": 11,
+    "groupTotal": 24,
+    "growthScore": 100.3,
+    "mainScore": 93.3,
+    "bonusScore": 7,
+    "classTiedCount": 422,
+    "groupTiedCount": 7,
+    "relativeUrl": "./course-20260814-2026050910210339496812/h5-growth-rank/",
+    "generatedAt": 1791613221805.0034
+  },
+  {
+    "slug": "course-20260813-2026050910210339455546",
+    "title": "第7讲-分组思想解数列综合",
+    "childName": "赵林苒",
+    "courseDateLabel": "8月13日",
+    "courseTime": "8月13日 10:30-13:00",
+    "teacher": "林林老师",
+    "className": "赵林苒真实小组",
+    "heroMessage": "每一次认真完成，都是成长的闪光时刻",
+    "growthRank": 1442,
+    "totalCount": 1849,
+    "groupRank": 15,
+    "groupTotal": 27,
+    "growthScore": 87,
+    "mainScore": 80,
+    "bonusScore": 7,
+    "classTiedCount": 321,
+    "groupTiedCount": 9,
+    "relativeUrl": "./course-20260813-2026050910210339455546/h5-growth-rank/",
+    "generatedAt": 1791613171079.9226
+  },
+  {
+    "slug": "course-20260811-2026050910210339992981",
+    "title": "第6讲-倒序相加解数列求和",
+    "childName": "赵林苒",
+    "courseDateLabel": "8月11日",
+    "courseTime": "8月11日 10:30-12:59",
+    "teacher": "林林老师",
+    "className": "赵林苒真实小组",
+    "heroMessage": "每一次认真完成，都是成长的闪光时刻",
+    "growthRank": 1,
+    "totalCount": 1863,
+    "groupRank": 1,
+    "groupTotal": 26,
+    "growthScore": 110,
+    "mainScore": 100,
+    "bonusScore": 10,
+    "classTiedCount": 815,
+    "groupTiedCount": 5,
+    "relativeUrl": "./course-20260811-2026050910210339992981/h5-growth-rank/",
+    "generatedAt": 1791613120129.6963
+  },
+  {
+    "slug": "course-20260810-2026050910210339659446",
+    "title": "第5讲-数形结合解等差数列",
+    "childName": "赵林苒",
+    "courseDateLabel": "8月10日",
+    "courseTime": "8月10日 10:30-13:00",
+    "teacher": "林林老师",
+    "className": "赵林苒真实小组",
+    "heroMessage": "每一次认真完成，都是成长的闪光时刻",
+    "growthRank": 1,
+    "totalCount": 1893,
+    "groupRank": 1,
+    "groupTotal": 26,
+    "growthScore": 107,
+    "mainScore": 100,
+    "bonusScore": 7,
+    "classTiedCount": 805,
+    "groupTiedCount": 6,
+    "relativeUrl": "./course-20260810-2026050910210339659446/h5-growth-rank/",
+    "generatedAt": 1791613067933.0447
+  },
+  {
+    "slug": "course-20260809-2026050910210339227336",
+    "title": "第4讲-倒推还原解错中求解（二）",
+    "childName": "赵林苒",
+    "courseDateLabel": "8月9日",
+    "courseTime": "8月9日 10:30-13:00",
+    "teacher": "林林老师",
+    "className": "赵林苒真实小组",
+    "heroMessage": "每一次认真完成，都是成长的闪光时刻",
+    "growthRank": 588,
+    "totalCount": 1818,
+    "groupRank": 6,
+    "groupTotal": 23,
+    "growthScore": 103.3,
+    "mainScore": 93.3,
+    "bonusScore": 10,
+    "classTiedCount": 659,
+    "groupTiedCount": 9,
+    "relativeUrl": "./course-20260809-2026050910210339227336/h5-growth-rank/",
+    "generatedAt": 1791613012789.949
+  },
+  {
+    "slug": "course-20260807-2026050910210339639787",
+    "title": "第3讲-倒推还原解错中求解（一）",
+    "childName": "赵林苒",
+    "courseDateLabel": "8月7日",
+    "courseTime": "8月7日 10:30-13:00",
+    "teacher": "林林老师",
+    "className": "赵林苒真实小组",
+    "heroMessage": "每一次认真完成，都是成长的闪光时刻",
+    "growthRank": 1,
+    "totalCount": 1789,
+    "groupRank": 1,
+    "groupTotal": 25,
+    "growthScore": 107,
+    "mainScore": 100,
+    "bonusScore": 7,
+    "classTiedCount": 1064,
+    "groupTiedCount": 6,
+    "relativeUrl": "./course-20260807-2026050910210339639787/h5-growth-rank/",
+    "generatedAt": 1791612958871.8855
   },
   {
     "slug": "course-20260806-2026050910210339449620",
     "title": "第2讲-还原问题",
     "childName": "赵林苒",
     "courseDateLabel": "8月6日",
-    "courseTime": "8月6日 18:30-21:00",
+    "courseTime": "8月6日 10:30-13:00",
     "teacher": "林林老师",
     "className": "赵林苒真实小组",
     "heroMessage": "每一次认真完成，都是成长的闪光时刻",
     "growthRank": 1,
-    "totalCount": 2081,
+    "totalCount": 1853,
     "groupRank": 1,
-    "groupTotal": 31,
-    "growthScore": 100,
-    "mainScore": 97.5,
+    "groupTotal": 26,
+    "growthScore": 107,
+    "mainScore": 100,
     "bonusScore": 7,
-    "classTiedCount": 0,
-    "groupTiedCount": 0,
+    "classTiedCount": 582,
+    "groupTiedCount": 9,
     "relativeUrl": "./course-20260806-2026050910210339449620/h5-growth-rank/",
-    "generatedAt": 1791612354455.5254
+    "generatedAt": 1791612904005.1472
   },
   {
     "slug": "course-20260805-2026050910210339629936",
     "title": "第1讲-借来还去与等量代换",
     "childName": "赵林苒",
     "courseDateLabel": "8月5日",
-    "courseTime": "8月5日 18:30-21:00",
+    "courseTime": "8月5日 10:30-13:00",
     "teacher": "林林老师",
     "className": "赵林苒真实小组",
     "heroMessage": "每一次认真完成，都是成长的闪光时刻",
     "growthRank": 1,
-    "totalCount": 2119,
+    "totalCount": 1854,
     "groupRank": 1,
-    "groupTotal": 31,
-    "growthScore": 95,
-    "mainScore": 85,
+    "groupTotal": 27,
+    "growthScore": 90,
+    "mainScore": 80,
     "bonusScore": 10,
-    "classTiedCount": 0,
-    "groupTiedCount": 0,
+    "classTiedCount": 1738,
+    "groupTiedCount": 25,
     "relativeUrl": "./course-20260805-2026050910210339629936/h5-growth-rank/",
-    "generatedAt": 1791612354454.2734
+    "generatedAt": 1791612849519.9211
   },
   {
     "slug": "course-20260607-2026012817050305691821",
@@ -102,7 +291,7 @@
     "classTiedCount": 0,
     "groupTiedCount": 0,
     "relativeUrl": "./course-20260607-2026012817050305691821/h5-growth-rank/",
-    "generatedAt": 1791612354453.329
+    "generatedAt": 1791612503000
   },
   {
     "slug": "course-20260531-2026012817050305252432",
@@ -123,7 +312,7 @@
     "classTiedCount": 0,
     "groupTiedCount": 0,
     "relativeUrl": "./course-20260531-2026012817050305252432/h5-growth-rank/",
-    "generatedAt": 1791612354452.329
+    "generatedAt": 1791612503000
   },
   {
     "slug": "course-20260524-2026012817050305816858",
@@ -144,7 +333,7 @@
     "classTiedCount": 0,
     "groupTiedCount": 0,
     "relativeUrl": "./course-20260524-2026012817050305816858/h5-growth-rank/",
-    "generatedAt": 1791612354450.4685
+    "generatedAt": 1791612503000
   },
   {
     "slug": "course-20260517-2026012817050305606591",
@@ -165,7 +354,7 @@
     "classTiedCount": 0,
     "groupTiedCount": 0,
     "relativeUrl": "./course-20260517-2026012817050305606591/h5-growth-rank/",
-    "generatedAt": 1791612354449.2773
+    "generatedAt": 1791612503000
   },
   {
     "slug": "course-20260510-2026012817050305069810",
@@ -186,7 +375,7 @@
     "classTiedCount": 0,
     "groupTiedCount": 0,
     "relativeUrl": "./course-20260510-2026012817050305069810/h5-growth-rank/",
-    "generatedAt": 1791612354448.535
+    "generatedAt": 1791612503000
   },
   {
     "slug": "course-20260426-2026012817050305122765",
@@ -207,7 +396,7 @@
     "classTiedCount": 0,
     "groupTiedCount": 0,
     "relativeUrl": "./course-20260426-2026012817050305122765/h5-growth-rank/",
-    "generatedAt": 1791612354447.572
+    "generatedAt": 1791612503000
   },
   {
     "slug": "course-20260419-2026012817050305322386",
@@ -228,7 +417,7 @@
     "classTiedCount": 0,
     "groupTiedCount": 0,
     "relativeUrl": "./course-20260419-2026012817050305322386/h5-growth-rank/",
-    "generatedAt": 1791612354446.329
+    "generatedAt": 1791612503000
   },
   {
     "slug": "course-20260412-2026012817050305019921",
@@ -249,7 +438,7 @@
     "classTiedCount": 0,
     "groupTiedCount": 0,
     "relativeUrl": "./course-20260412-2026012817050305019921/h5-growth-rank/",
-    "generatedAt": 1791612354444.329
+    "generatedAt": 1791612503000
   },
   {
     "slug": "course-20260405-2026012817050305535899",
@@ -270,7 +459,7 @@
     "classTiedCount": 0,
     "groupTiedCount": 0,
     "relativeUrl": "./course-20260405-2026012817050305535899/h5-growth-rank/",
-    "generatedAt": 1791612354442.329
+    "generatedAt": 1791612503000
   },
   {
     "slug": "course-20260329-2026012817050305844771",
@@ -291,7 +480,7 @@
     "classTiedCount": 0,
     "groupTiedCount": 0,
     "relativeUrl": "./course-20260329-2026012817050305844771/h5-growth-rank/",
-    "generatedAt": 1791612354441.329
+    "generatedAt": 1791612503000
   },
   {
     "slug": "course-20260322-2026012817050305407206",
@@ -312,7 +501,7 @@
     "classTiedCount": 0,
     "groupTiedCount": 0,
     "relativeUrl": "./course-20260322-2026012817050305407206/h5-growth-rank/",
-    "generatedAt": 1791612354439.329
+    "generatedAt": 1791612503000
   },
   {
     "slug": "course-20260315-2026012817050305024135",
@@ -333,7 +522,7 @@
     "classTiedCount": 0,
     "groupTiedCount": 0,
     "relativeUrl": "./course-20260315-2026012817050305024135/h5-growth-rank/",
-    "generatedAt": 1791612354437.4648
+    "generatedAt": 1791612503000
   },
   {
     "slug": "course-20260308-2026012817050305277988",
@@ -354,6 +543,6 @@
     "classTiedCount": 0,
     "groupTiedCount": 0,
     "relativeUrl": "./course-20260308-2026012817050305277988/h5-growth-rank/",
-    "generatedAt": 1791612354436.329
+    "generatedAt": 1791612503000
   }
 ]
