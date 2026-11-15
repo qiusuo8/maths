@@ -1,0 +1,7531 @@
+{
+  "key": "homework",
+  "title": "全班作业分榜",
+  "subtitle": "按课后作业得分排序",
+  "valueLabel": "分",
+  "valueKey": "value",
+  "homeRows": [
+    {
+      "rank": 1,
+      "name": "王淯灏",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王梓恒",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "刘梓萱",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "韩宥壹",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "牛子睿",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "孙屹坤",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "来书霄",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李易安",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "节昕暄",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "范一鸣",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陆希",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "何佩翎",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "唐弘毅",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "冯语梵",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "JJ",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "费翊涵",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王彬宇",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "卓睿",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "胡明轩",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "周瑾瑜",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    }
+  ],
+  "allRows": [
+    {
+      "rank": 1,
+      "name": "王淯灏",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王梓恒",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "刘梓萱",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "韩宥壹",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "牛子睿",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "孙屹坤",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "来书霄",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李易安",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "节昕暄",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "范一鸣",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陆希",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "何佩翎",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "唐弘毅",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "冯语梵",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "JJ",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "费翊涵",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王彬宇",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "卓睿",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "胡明轩",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "周瑾瑜",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "Zack",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "徐荻洋",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王雅涵",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "杨睿祺",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "岳松华",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "阳阳",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "佟若鱼",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "秦以硕",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "墨卿",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "姚远",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "黄嘉妍",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "闫宸睿",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王佳杭",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "刘君诚",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "钟子宸",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "兰敦闵",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "于智晟",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "郑紫悦",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "龚浈皓",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "蔡东航",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "于子航",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王泽",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "甘潇楠",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "司雨珩",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "伍荣峻",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张梓琛",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王沐泽",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "高润崎",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "贾铂浛",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "石靖淇",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "林泰岳",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "赵筱北",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "余伊禾",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "冉博韬",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王子琛",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "廖奕洋",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈斯衡",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张健昊",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "邓翕予",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王霖蒂",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张筱墨",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "曹子沐",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "代浚懿",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "小星星",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "朱星锐",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张钰濛",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "毕鸣璨",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "曲玥潼",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张雨琪",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张智轩",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "戴瑾衍",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "郑佳果",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "岳苇杭",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "袁东辰",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王琛予",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "余乾",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "胡晨",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "沐沐",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "常家悦",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "范依诺",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "周菡玥",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "姚文博",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "黄泓竣",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "宋梓旗",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "杨博涵",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "姚奕帆",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "何禾",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "何黄则义",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王楚涵",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "方敬博",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "姜宇田",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "苏睿涵",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "嗯嗯",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "杜顺毅",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "牛牛",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "薛煜泽",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "杨佳霖",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "书瀚",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "小丁同学",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "刘馨泽",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "黄若涵",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张家上",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "赵笠廷",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "冰冰汐汐",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张启",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李沛轩",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "苏诗硕",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王诗琪",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "轩轩",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "贾唯艺",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "洪浩程",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李欣桐",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王志航",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "刘思晔",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "郑仁",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "罗梓鸣",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "黄沐可",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "周思源",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "梅文茜",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "邓司宇",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "刘健铭",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "任葉恒綺",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "仝小泺",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张予迪",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "戴治旭",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "刘思杨",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "沐芷沐岩",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张桐恺",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李燕晨",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "彭宇浩",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "徐沣",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "桐桐",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "谭家栋",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "蒋曦冉",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "吕建德",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "郑牧之",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "胡晓雷",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "洋洋",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "崔芷倩",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "别文轩",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "刘津鸣",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "高宇迪",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "钟天宇",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "杨博翔",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "肉肉",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张曦月",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "戴义凡",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王诗珺",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "龙建希",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "邓宇辰",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "赵紫辰",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张梓宸",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李新阳",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王玺博",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "小彬",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "夏兴宸",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "谭钧仁",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张茹越",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "刘睿彤",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王文诺",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王心逸",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "吴宜",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈稣",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "安安辰辰",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "刘泽可",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "卢昱佑",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "柯言",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "仝浩宇",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈世逸",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李言宸",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "刘轩陌",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李沐言",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "瑞瑞",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "钟楷文",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "程铭",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "一一",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "苏启翯",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "崔裕淇",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "庄淋汐",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张诗淼",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "龙绎轩",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "杨沐沅",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "周周",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张天沐",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "郑淇",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王哲",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "郑惠尹",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张书祎",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "林宇凡",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "韩梓汐",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "姜梦莹",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "徐艺硕",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "尹梓琳",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "楷瑞",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "孙翊航",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈子琛",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "范一轩",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "刘梦瑶",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "余博涵",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "樊钰航",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王朱佳昱",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "杨欣仪",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "唐榛圻",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "付泊雄",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "郝睿彤",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "徐浚哲",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "毛渃依",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "魏一航",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "周一诺",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "翰宝",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "向辰逸",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "沐沐",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "吴佳玟",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "言言",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "杨沐辰",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "卢丁尘",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "周廷岳",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "多多",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "刘瑜泽",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "果果",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "彭煦桓",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "游冰欣",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "杨智翔",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "叶梦轩",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张艺珂",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "胡诗瑶",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "谢悦",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张景棋",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "周子茹",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "笑笑",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "苏源学",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "sky",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "郎诗远",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "彭彭",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "余天棋",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "曹锦瑞",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "元宝",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "徐小爱",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李馨玥",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "汪嘉璟",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李嘉豪",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "刘艾佳",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "尹聍霄",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "孙楚昊",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "肖晨羿",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "米粒儿",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "安梓谦",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "牛翌玮",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "盛嘉宸",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李韩泽楷",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "龙飞宇",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "六六",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张欣妍",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "朱皓琳",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李乔安",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "谢时越",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张峻豪",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "雨点",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李佳乐",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈羿飏",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "曹梓熙",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "杨家烁",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈德轩",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李纲",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "小米",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "曾凡佩",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "袁子骞",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈可欣",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王雨昕",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "楼鸿喆",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张棨戎",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "段皓通",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "毛渝涵",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "程姝妤",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "侯依宸",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "余诗语",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "柠柠",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "雷宇墨",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张洋溢",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "橙子",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "庞博允",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张涵铄",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "金天",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张梓恒",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "玉米",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈梦",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "曹新苓",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王誉涵",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "罗熙雯",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "刘冀豪",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "檀有平",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "田信",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "郑亦涵",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王泽钦",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王聪瑞",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "钟俊逸",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "廖宸涵",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "邹铠霖",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "高晟杰",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "林长方",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈昱行",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "尚佳浩",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张可成",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李佳怡",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "帅亦之",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "周文然",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "黄靖洋",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "屈展毅",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "高煜捷",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "侯泽霖",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "任宇辰",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "秦运延",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王紫丞",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "丁墨龙",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张亦阳",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "杨庆安",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "韩昱均",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张嘉宸",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "艾文博",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "柏文淦",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "朱宸轩",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张绍凡",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王文灏",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "宣泽佑",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张梦辰",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈学李",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "跳跳糖糖",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "荆沐粲",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王梓童",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李昊坤",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王宇晨",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈宇轩",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王梓埙",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张景怡",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "一一",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "胥小海",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "邓沐晨",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "蔡一一",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "惠梓墨",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "杨暄颖",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "孙亦辰",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "斯周彬",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李沅泽",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "布丁",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "田方和",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "田雨琪",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李东泽",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张歆子",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "肖博文",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "梁媛媛",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "皓皓",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李川",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "崔洋硕",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "胡峻源",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "杨淼然",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "丁瑞旭",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "仲乙",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "谢嘉桐",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "马诗程",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "邓文周",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王逸轩",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "小魔",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "黎晨峻",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "柳钧耀",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "宸宸",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "邹枘汐",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "尹明昊",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李奕默",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "潘毅铭",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "庚庚",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "袁浚哲",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "韩望舒",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李宸皓",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "卢宝峰",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张钧和",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "乐桢",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "刘宥熙",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王皓然",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "冯柯钦",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "潇潇",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王峥泽",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "巩科延",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王岚熹",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "黄洪香",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王浚尧",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "邱在野",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王丹巍",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "徐子卉",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王姿淇",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "滕悦汐",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "蒋郑弘",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "敬子晨",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李佳浩",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "田秉轩",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李泊韬",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "完颜至善",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "黄梓宸",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "段力瑞",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "屈屈",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张鑫垚",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "龚遇杨",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "黄梵宸",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "刘潇瑞",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "黄瑞欣",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李辰辰",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张沐宸",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "杜粒禾",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李栖桐",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "钰航",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "景泽森",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈稳",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "潘镜汁",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "熙熙",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "邸泽熙",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张清涵",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "董致远",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "跳跳",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李纯熙",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "冷乾正",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "刘思湉",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "柯燃",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张梓洋",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "赵若然",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "七月",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李熠熠李西西",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "金义森",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "汤子佳",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陆奕辰",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张博然",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王子凯",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "郭梓博",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈麒舟",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王一航",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈智胜",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "孙其琛",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "刘佳昊",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "潘晓车",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "许跃瀚",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "曾铂顺",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "耿孟想",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈景渝",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "董瀚云",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "郭凌熙",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "方昭懿",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "康皓钦",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "汪怡然",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "吴御宸",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "杨浏帆",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈婕羽",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "阅阳",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张芮豪",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李浩语",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "帅俊希",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "曾宇辰",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "满意",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张书恺",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "芮于沅",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "梁承诺",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "朱俊恺",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "庞雅诗",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李奕辰",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "顾翌尘",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "徐梓瑞",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "郑思晨",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "黄熙桐",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "赵晨妤",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张皓轩",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "杨润淇",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "刘承中",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "连瑾萱",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "杨天翊",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张倍源",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "鲁皓瑞",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "姬叶淦",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张益恺",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "赵艺",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "冯微",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "余承驿",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李梓毅",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "闪昕玥",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王皓喆",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "韩承宣",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李锦昊",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李铖溪",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "赵奕轩",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "裴聆羽",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "康津菘",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "高子煜",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "林佳融",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "蒋欣雨",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李宛纯",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "刘一凡",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "赵清浅",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "欧文",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王睿源",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "高铭泽",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈柏睿",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "糖果",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "姚宇",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "祈逸",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "涂楠翊",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "小博博",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "曦曦",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "祝秋收",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "黄柏霖",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "谢允哲",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "尤诗源",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "姚子熙",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "高嘉泽",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈虞晗",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张清木",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "胡颜墨",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "田子熠",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "高彦卓",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "徐舒也",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "熊彬辰",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "赵慧慈",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王宣轶",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张子墨",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈昱岐",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "何奕林",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "周奕桐",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "晨豪",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "肖贺轩",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张歆晨",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "殷翊洋",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "孙敬涵",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "白可可",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "杨向荣",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "卿卿",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李翰",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张博瑞",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "岳倚帆",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李姝妍",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "兜兜",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "虎子",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "苏隽霖",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "宋雨恒",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王琛淇",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "谢铭轩",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "许颖妍",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "常舒雅",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "吴言优",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "大帅哥",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "熊修远",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "吴易泽",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "许艺凡",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "齐禹硕",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李弘毅",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "金子钰",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "岐岐",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李博涵",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈宇熙",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张峻诚",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "范晟煜范晨煜",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "耿嘉宁",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "周意舒",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "曾粤宸",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "焦冠清",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张君毅",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "臧徐泽",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张修源",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "苟一冉",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "郑舒阳",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "高嘉旖",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "吕奕恬",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王俊麟",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "晨晨",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "乔木",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "于佳蕙",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "杨奕扬",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王沛熙",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "芽芽",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "蒲泽玥",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "尹思宸",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "顾书铭",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "郑淏荠",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "邓乙凯",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "贾晟喆",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "林宇",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "何浩然",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李杉杉",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "霍昭樨",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "梓宁",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "胡熙皓",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "郭子瑜",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈嘉佑",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈泓玮",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "朱家希",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈邵贤",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "若衡",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "吴习良",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "刘栩熙",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张添霖",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "金晨",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "窦煜植",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "肖媛馨",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "易易",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "小米",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "尚可",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "彭嘉琪",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "安梓墨",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "樊芮希",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "白景桓",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "马旭辰",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王鹿鸣",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张梓修",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "林品妙",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张魏然",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "谢梓宸",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "小丸子",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "柚子",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王梓宁",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "齐浩",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张媛兮",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "杨铠硕",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈烁",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈梓墨",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "琳琳",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈衍默",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "马竟超",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "刘家文",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李嘉悦",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "潼潼",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "媛宝",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "周意陈",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "雷昆易",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王曙城",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张灵甫",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "周智宸",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "梁欣桐",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "小土豆",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "盛锦涵",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "卢心菲",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张誉严",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李佳茵",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张沐涵",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "姜智皓",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "蔡卓佳",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "郑妤馨",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "冉梓昊",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "刘子昂",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张宗源",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "崔佳诺",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李昭若",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张诗音",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王子舟",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "杨子乔",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈培鑫",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "贾意宸",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "田奕辰",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "方茗睿",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈梓睿",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "马子驭",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王梓硕",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "包谋弈",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李晨瑜",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "肖昊晨",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "牛沐晨",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李雨洁",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "嘉嘉",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "安陶陶",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "祺祺",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "罗晨依",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "邵安阳",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "郑明喆",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "桂霖轩",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "任思瑶",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "胡泽予",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "朱云曦",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "申云逸",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "杨思锦",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "冯子恒",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "诚诚",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "吴以泊",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王若宁",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李东泽",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "吕博辰",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈泽霖",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "汤佳澔",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王梓竣",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "龙宇桐",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈柏霖",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "程敬玄",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李美辰",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "郝思羽",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "朵朵",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "杨宥依",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "柳欣妍",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "吴昊轩",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "肖珩",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "梅宇宸",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张一淏",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "小树",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "胡羿鸣",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "梁玥蓉",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "颜佩佩",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "彭晨硕",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "胡皓哲",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "翔翔",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "武沈奕帆",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张宸瑞",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张梓恒",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "殷子珺",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "季书涵",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王一诺",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张一涵",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "罗佳怡",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张云泽",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "程时",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "郝梓心",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李瑞阳",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "朵朵",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王傲琪",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "刘若兮",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "洪正中",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "赵允筱",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "吴泊澄",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "周婉迪",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张涵颖",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "祁艺硕",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "郭梵嵘",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "郭方宇",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王果果",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "帅乐",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "高渝博",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "吴忞暄",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "爱豆",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "蒋佩佩",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "薛雯月",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "赵泽睿",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "周幕城",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张梓夏",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "牛兆润",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张琪琪",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "任宸岳",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "冯逸轩",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "曹榕璟",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈子诺",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李冠澍",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "阳阳",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "聂海硕",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "曾梓欣",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "夏雨石杰",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "杨翌宸",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "周琪棋",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "赵乾旭",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张一宣",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "刘梦星",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张哲宇",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈锘",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "万李梓锡",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "曹代骄",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈博言",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "黄朵朵",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "秦继阳",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "严鸿涛",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "杨瀚杰",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王翊辰",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "林禹辰",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "孙圣博",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李明博",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李润贤",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张奕茜",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "婷宝",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈桓可",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王惜雅",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "琪琪",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "韩宇童",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "宋祥语",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王雨薇",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "汪裕桃",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "姚增晟",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "杨宇轩",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "肖武迪",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "钟梓歆",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王雅萱",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈浩文",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张星汉",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "郭显成",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "杨萧鸣",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "贾紫平",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "刘俊喆",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "吴骏毅",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "许芮涵",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "唐一鸣",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李垠儒",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "许晨希",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "萱宁",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张艺慈",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "赵梓萌",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "伍康雯",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "佐佐",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "龚恒泽",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "郭轩冉",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "时嘉玙",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "吴雨薇",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "杨璟雯",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈奕壕",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张宛雪",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "周易杨",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "刘苏苏",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈学林",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "余嘉亨",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈雨萱",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张懿辰",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "杜芳漫",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "黄诚至",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王梓旭",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "赵悉宇",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "侯依晨",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "梁颢蓝",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈镜宇",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "马沐宸",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "诗雨",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李甘霖",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "帅昱琪",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王璿默",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "卢艺潇",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "依依",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "沛加",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李乔沐",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "党慕天",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "黄嘉诺",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "梁栩楷",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "郭以琦",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "肖睿哲",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "康康",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陆雯萱",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "郭疏杪",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "耿铭泽",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "昕昕",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "彭凡徽",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "姜铛铛",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "彭若萱",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "果果",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "曹欣源",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王俊峰",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张鑫毅",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王博霖",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "文昭清",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "姚森钧",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "元宝",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "刘晨森",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "黄宇航",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "何奕可",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李香毅",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王语堂",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "赵晨曦",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "徐沐兮",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "曾柯程",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "Michael",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "黄培嘉",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "柳成霖",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "尹桐桐",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "韩嘉言",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张万尚",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "星言",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈沁怡",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "周天成",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈毅曈",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王妙艳",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "马梓楚",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈语涵",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "龚振恪",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "樊谟宁",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "亦亦",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "浦乖乖",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "张小飞",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "姚承希",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "Bella",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "牛溪语",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "姜申正",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "姜修齐",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "乔木",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈谦裕",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "庭赫",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "陈凌雍",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "梓冉",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "声钰声钦",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "彭梓境",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "韩金初",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "米朵",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王希源",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "叶芳宁",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "美汐",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "付彦琳",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "汪子城",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "袁仁韬",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "王宇恒",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "崔家溢",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "石翔宇",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "泰罗",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "马小曦",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "李晨歌",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "刘添翼",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "霁媛",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "赵梓博",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "魏敬庭",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "吴中泽",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 1,
+      "name": "赵梓涵",
+      "value": 100,
+      "tiedCount": 901,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 902,
+      "name": "王聿",
+      "value": 90,
+      "tiedCount": 2,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 902,
+      "name": "晏智鑫",
+      "value": 90,
+      "tiedCount": 2,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 904,
+      "name": "施柯廷",
+      "value": 85,
+      "tiedCount": 6,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 904,
+      "name": "王沐诚",
+      "value": 85,
+      "tiedCount": 6,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 904,
+      "name": "林励宁",
+      "value": 85,
+      "tiedCount": 6,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 904,
+      "name": "徐依然",
+      "value": 85,
+      "tiedCount": 6,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 904,
+      "name": "殷乐乐",
+      "value": 85,
+      "tiedCount": 6,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 904,
+      "name": "何江颖",
+      "value": 85,
+      "tiedCount": 6,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 910,
+      "name": "赵婉妤",
+      "value": 75,
+      "tiedCount": 3,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 910,
+      "name": "袁嘉曜",
+      "value": 75,
+      "tiedCount": 3,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 910,
+      "name": "刘俊贤",
+      "value": 75,
+      "tiedCount": 3,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 913,
+      "name": "竞霖",
+      "value": 70,
+      "tiedCount": 1,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 914,
+      "name": "陈高子阳",
+      "value": 65,
+      "tiedCount": 2,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 914,
+      "name": "王子木",
+      "value": 65,
+      "tiedCount": 2,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 916,
+      "name": "米粒",
+      "value": 45,
+      "tiedCount": 2,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 916,
+      "name": "程立顺",
+      "value": 45,
+      "tiedCount": 2,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 918,
+      "name": "陈小宝",
+      "value": 40,
+      "tiedCount": 1,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 919,
+      "name": "张宸泽",
+      "value": 35,
+      "tiedCount": 2,
+      "unit": "分",
+      "tag": "作业完成"
+    },
+    {
+      "rank": 919,
+      "name": "黄志航",
+      "value": 35,
+      "tiedCount": 2,
+      "unit": "分",
+      "tag": "作业完成"
+    }
+  ]
+}
